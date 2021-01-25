@@ -1,0 +1,85 @@
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 10:54:01+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 10:54:01+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 10:54:01+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 10:54:01+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 10:54:01+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 10:54:01+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 10:54:01+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 10:54:01+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 10:54:01+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 10:54:01+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 10:54:01+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 10:54:01+0100.
+[2] Reading ASCII mesh file ...
+[0] Reading ASCII mesh file ...
+[5] Reading ASCII mesh file ...
+[9] Reading ASCII mesh file ...
+[1] Reading ASCII mesh file ...
+[4] Reading ASCII mesh file ...
+[7] Reading ASCII mesh file ...
+[10] Reading ASCII mesh file ...
+[6] Reading ASCII mesh file ...
+[3] Reading ASCII mesh file ...
+[11] Reading ASCII mesh file ...
+[8] Reading ASCII mesh file ...
+[2] [time] Reading the mesh took 0.000166 s.
+[0] Error opening file /p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic_partitioned_cfg12.msh for input.
+[5] [time] Reading the mesh took 0.000163 s.
+[9] [time] Reading the mesh took 0.000180 s.
+[1] [time] Reading the mesh took 0.000177 s.
+[4] [time] Reading the mesh took 0.000160 s.
+[7] [time] Reading the mesh took 0.000170 s.
+[10] [time] Reading the mesh took 0.000139 s.
+[6] [time] Reading the mesh took 0.000170 s.
+[3] [time] Reading the mesh took 0.000151 s.
+[11] [time] Reading the mesh took 0.000149 s.
+[8] [time] Reading the mesh took 0.000134 s.
+[0] [time] Reading the mesh took 0.000148 s.
+[0] Could not read mesh from '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic.vtu' file. No mesh added. at ProjectData.cpp, line 153
+[6] Could not read mesh from '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic.vtu' file. No mesh added. at ProjectData.cpp, line 153
+[8] Could not read mesh from '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic.vtu' file. No mesh added. at ProjectData.cpp, line 153
+[10] Could not read mesh from '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic.vtu' file. No mesh added. at ProjectData.cpp, line 153
+[7] Could not read mesh from '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic.vtu' file. No mesh added. at ProjectData.cpp, line 153
+[5] Could not read mesh from '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic.vtu' file. No mesh added. at ProjectData.cpp, line 153
+[3] Could not read mesh from '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic.vtu' file. No mesh added. at ProjectData.cpp, line 153
+[4] Could not read mesh from '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic.vtu' file. No mesh added. at ProjectData.cpp, line 153
+[2] Could not read mesh from '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic.vtu' file. No mesh added. at ProjectData.cpp, line 153
+[11] Could not read mesh from '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic.vtu' file. No mesh added. at ProjectData.cpp, line 153
+[8] OGS terminated on 2021-01-05 10:54:02+010
+[8] OGS terminated with error.
+[6] OGS terminated on 2021-01-05 10:54:02+010
+[6] OGS terminated with error.
+[1] Could not read mesh from '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic.vtu' file. No mesh added. at ProjectData.cpp, line 153
+[0] OGS terminated on 2021-01-05 10:54:02+010
+[0] OGS terminated with error.
+[9] Could not read mesh from '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/diagonalPulling/Masonry///mesh_half_OGSNR_pf_ic.vtu' file. No mesh added. at ProjectData.cpp, line 153
+[10] OGS terminated on 2021-01-05 10:54:02+010
+[10] OGS terminated with error.
+[7] OGS terminated on 2021-01-05 10:54:02+010
+[7] OGS terminated with error.
+[3] OGS terminated on 2021-01-05 10:54:02+010
+[3] OGS terminated with error.
+[5] OGS terminated on 2021-01-05 10:54:02+010
+[5] OGS terminated with error.
+[2] OGS terminated on 2021-01-05 10:54:02+010
+[2] OGS terminated with error.
+[4] OGS terminated on 2021-01-05 10:54:02+010
+[4] OGS terminated with error.
+[1] OGS terminated on 2021-01-05 10:54:02+010
+[1] OGS terminated with error.
+[9] OGS terminated on 2021-01-05 10:54:02+010
+[9] OGS terminated with error.
+[11] OGS terminated on 2021-01-05 10:54:02+010
+[11] OGS terminated with error.

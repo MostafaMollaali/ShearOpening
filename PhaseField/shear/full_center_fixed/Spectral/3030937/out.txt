@@ -1,0 +1,622 @@
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2020-11-12 11:40:31+0100.
+[0] ConstantParameter: E
+[0] ConstantParameter: nu
+[0] ConstantParameter: k
+[0] ConstantParameter: gc
+[0] ConstantParameter: ls
+[0] ConstantParameter: H
+[0] ConstantParameter: rho_sr
+[0] ConstantParameter: displacement0
+[0] MeshNodeParameter: phasefield_ic
+[0] ConstantParameter: phasefield_bc
+[0] ConstantParameter: dirichlet0
+[0] ConstantParameter: Dirichlet_spatial
+[0] CurveScaledParameter: dirichlet_top_time
+[0] ConstantParameter: dirichlet_top
+[0] ConstantParameter: M
+[0] ConstantParameter: neumann_force
+[0] ConstantParameter: neumann_force1
+[0] No source terms for process variable 'phasefield' found.
+[0] No source terms for process variable 'displacement' found.
+[0] The equations of the coupled processes will be solved by the staggered scheme.
+[0] Initialize processes.
+[0] Solve processes.
+[0] [time] Output of timestep 0 took 0.455906 s.
+[0] === Time stepping at step #1 and time 0.25 with step size 0.25
+[0] [time] Assembly took 1.21745 s.
+[0] [time] Applying Dirichlet BCs took 0.018996 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 138 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 22.7627 s.
+[0] Convergence criterion: |dx|=1.9552e+00, |x|=1.9552e+00, |dx|/|x|=1.0000e+00
+[0] [time] Iteration #1 took 24.0022 s.
+[0] [time] Assembly took 1.16143 s.
+[0] [time] Applying Dirichlet BCs took 0.0168798 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 108 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 18.0401 s.
+[0] Convergence criterion: |dx|=6.1172e-03, |x|=1.9529e+00, |dx|/|x|=3.1323e-03
+[0] [time] Iteration #2 took 19.2208 s.
+[0] [time] Assembly took 1.17092 s.
+[0] [time] Applying Dirichlet BCs took 0.0157917 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 86 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 14.517 s.
+[0] Convergence criterion: |dx|=2.9368e-04, |x|=1.9530e+00, |dx|/|x|=1.5038e-04
+[0] [time] Iteration #3 took 15.7061 s.
+[0] [time] Assembly took 1.17046 s.
+[0] [time] Applying Dirichlet BCs took 0.0156467 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 81 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 13.7627 s.
+[0] Convergence criterion: |dx|=1.1311e-04, |x|=1.9530e+00, |dx|/|x|=5.7916e-05
+[0] [time] Iteration #4 took 14.9512 s.
+[0] Integral of crack: 9.92743e-06
+[0] Elastic energy: 0.000789687 Surface energy: 0.426406 Pressure work: 0.0003952 Total energy: 0.427196 
+[0] [time] Solving process #0 took 74.7396 s in time step #1  coupling iteration #0
+[0] [time] Applying Dirichlet BCs took 6.19888e-05 s.
+[0] [time] Assembly took 0.937665 s.
+  0 SNES Function norm 4.192977385102e-02 
+[0] [time] Assembly took 0.916742 s.
+[0] [time] Assembly took 0.914909 s.
+[0] [time] Assembly took 0.915525 s.
+  1 SNES Function norm 1.327499156640e-02 
+[0] [time] Assembly took 0.91542 s.
+[0] [time] Assembly took 0.92019 s.
+[0] [time] Assembly took 0.914802 s.
+  2 SNES Function norm 3.151788033713e-03 
+[0] [time] Assembly took 0.9144 s.
+[0] [time] Assembly took 0.914101 s.
+[0] [time] Assembly took 0.915373 s.
+  3 SNES Function norm 1.794342197388e-05 
+[0] [time] Assembly took 0.914592 s.
+[0] [time] Assembly took 0.913248 s.
+[0] [time] Assembly took 0.915154 s.
+  4 SNES Function norm 2.398320141117e-11 
+[0] PETScSNES used 4 iterations.
+[0] PETSsSNES reason 2.
+[0] [time] Solving process #1 took 12.3426 s in time step #1  coupling iteration #0
+[0] [time] Assembly took 1.17075 s.
+[0] [time] Applying Dirichlet BCs took 0.0158362 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 370 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 59.1918 s.
+[0] Convergence criterion: |dx|=3.5545e-03, |x|=1.9544e+00, |dx|/|x|=1.8188e-03
+[0] [time] Iteration #1 took 60.3806 s.
+[0] [time] Assembly took 1.16953 s.
+[0] [time] Applying Dirichlet BCs took 0.0157661 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 69 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 11.8843 s.
+[0] Convergence criterion: |dx|=1.7824e-04, |x|=1.9544e+00, |dx|/|x|=9.1201e-05
+[0] [time] Iteration #2 took 13.0719 s.
+[0] Integral of crack: 1.32905e-05
+[0] Elastic energy: 0.000789739 Surface energy: 0.288016 Pressure work: 0.000395387 Total energy: 0.288806 
+[0] [time] Solving process #0 took 74.3078 s in time step #1  coupling iteration #1
+[0] [time] Applying Dirichlet BCs took 4.86374e-05 s.
+[0] [time] Assembly took 0.908041 s.
+  0 SNES Function norm 5.846734635520e-09 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[0] [time] Solving process #1 took 0.935144 s in time step #1  coupling iteration #1
+[0] ------- Checking convergence criterion for coupled solution  -------
+[0] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[0] Fracture width computataion after time step for output
+[0] [time] Time step #1 took 162.502 s.
+[0] [time] Output of timestep 1 took 0.794117 s.
+[0] === Time stepping at step #2 and time 0.5 with step size 0.25
+[0] [time] Assembly took 1.16844 s.
+[0] [time] Applying Dirichlet BCs took 0.0157008 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 79 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 13.4412 s.
+[0] Convergence criterion: |dx|=1.8130e-04, |x|=1.9544e+00, |dx|/|x|=9.2770e-05
+[0] [time] Iteration #1 took 14.6275 s.
+[0] Integral of crack: 1.32641e-05
+[0] Elastic energy: 0.000789739 Surface energy: 0.288016 Pressure work: 0.000395439 Total energy: 0.288806 
+[0] [time] Solving process #0 took 15.482 s in time step #2  coupling iteration #0
+[0] [time] Applying Dirichlet BCs took 4.81606e-05 s.
+[0] [time] Assembly took 0.914984 s.
+  0 SNES Function norm 5.849371872006e-09 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[0] [time] Solving process #1 took 0.942049 s in time step #2  coupling iteration #0
+[0] [time] Assembly took 1.17103 s.
+[0] [time] Applying Dirichlet BCs took 0.0158553 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 195 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 31.6602 s.
+[0] Convergence criterion: |dx|=1.7800e-04, |x|=1.9544e+00, |dx|/|x|=9.1076e-05
+[0] [time] Iteration #1 took 32.8493 s.
+[0] Integral of crack: 1.32553e-05
+[0] Elastic energy: 0.000789739 Surface energy: 0.288016 Pressure work: 0.000395535 Total energy: 0.288806 
+[0] [time] Solving process #0 took 33.7054 s in time step #2  coupling iteration #1
+[0] [time] Applying Dirichlet BCs took 4.74453e-05 s.
+[0] [time] Assembly took 0.914797 s.
+  0 SNES Function norm 5.850864400785e-09 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[0] [time] Solving process #1 took 0.941715 s in time step #2  coupling iteration #1
+[0] ------- Checking convergence criterion for coupled solution  -------
+[0] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[0] Fracture width computataion after time step for output
+[0] [time] Time step #2 took 51.2486 s.
+[0] [time] Output of timestep 2 took 0.792608 s.
+[0] === Time stepping at step #3 and time 0.75 with step size 0.25
+[0] [time] Assembly took 1.16815 s.
+[0] [time] Applying Dirichlet BCs took 0.0157323 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 68 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 11.6878 s.
+[0] Convergence criterion: |dx|=2.1970e-04, |x|=1.9544e+00, |dx|/|x|=1.1242e-04
+[0] [time] Iteration #1 took 12.8738 s.
+[0] [time] Assembly took 1.17021 s.
+[0] [time] Applying Dirichlet BCs took 0.0159423 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 295 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 47.3768 s.
+[0] Convergence criterion: |dx|=2.5216e-04, |x|=1.9544e+00, |dx|/|x|=1.2902e-04
+[0] [time] Iteration #2 took 48.5653 s.
+[0] [time] Assembly took 1.16722 s.
+[0] [time] Applying Dirichlet BCs took 0.016067 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 144 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 23.6958 s.
+[0] Convergence criterion: |dx|=2.9891e-04, |x|=1.9544e+00, |dx|/|x|=1.5294e-04
+[0] [time] Iteration #3 took 24.8814 s.
+[0] [time] Assembly took 1.16865 s.
+[0] [time] Applying Dirichlet BCs took 0.0157974 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 338 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 53.911 s.
+[0] Convergence criterion: |dx|=3.2858e-04, |x|=1.9544e+00, |dx|/|x|=1.6812e-04
+[0] [time] Iteration #4 took 55.0978 s.
+[0] [time] Assembly took 1.16883 s.
+[0] [time] Applying Dirichlet BCs took 0.0157869 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 98 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 16.5085 s.
+[0] Convergence criterion: |dx|=3.0642e-04, |x|=1.9544e+00, |dx|/|x|=1.5679e-04
+[0] [time] Iteration #5 took 17.6954 s.
+[0] [time] Assembly took 1.17273 s.
+[0] [time] Applying Dirichlet BCs took 0.0160401 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 209 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 34.1758 s.
+[0] Convergence criterion: |dx|=2.6457e-04, |x|=1.9544e+00, |dx|/|x|=1.3537e-04
+[0] [time] Iteration #6 took 35.3669 s.
+[0] [time] Assembly took 1.17241 s.
+[0] [time] Applying Dirichlet BCs took 0.015671 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 149 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 24.9769 s.
+[0] Convergence criterion: |dx|=2.4230e-04, |x|=1.9544e+00, |dx|/|x|=1.2398e-04
+[0] [time] Iteration #7 took 26.1673 s.
+[0] [time] Assembly took 1.21482 s.
+[0] [time] Applying Dirichlet BCs took 0.0162249 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 250 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 40.6018 s.
+[0] Convergence criterion: |dx|=3.4641e-04, |x|=1.9544e+00, |dx|/|x|=1.7725e-04
+[0] [time] Iteration #8 took 41.8352 s.
+[0] [time] Assembly took 1.16675 s.
+[0] [time] Applying Dirichlet BCs took 0.0158527 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 171 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 28.0464 s.
+[0] Convergence criterion: |dx|=2.5323e-04, |x|=1.9544e+00, |dx|/|x|=1.2957e-04
+[0] [time] Iteration #9 took 29.2314 s.
+[0] [time] Assembly took 1.16721 s.
+[0] [time] Applying Dirichlet BCs took 0.0158498 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 177 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 29.0149 s.
+[0] Convergence criterion: |dx|=2.8380e-04, |x|=1.9544e+00, |dx|/|x|=1.4521e-04
+[0] [time] Iteration #10 took 30.2003 s.
+[0] [time] Assembly took 1.16605 s.
+[0] [time] Applying Dirichlet BCs took 0.0158379 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 276 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 44.6745 s.
+[0] Convergence criterion: |dx|=4.4853e-04, |x|=1.9544e+00, |dx|/|x|=2.2950e-04
+[0] [time] Iteration #11 took 45.8587 s.
+[0] [time] Assembly took 1.16779 s.
+[0] [time] Applying Dirichlet BCs took 0.0157917 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 193 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 31.4233 s.
+[0] Convergence criterion: |dx|=5.3652e-04, |x|=1.9544e+00, |dx|/|x|=2.7453e-04
+[0] [time] Iteration #12 took 32.6092 s.
+[0] [time] Assembly took 1.1671 s.
+[0] [time] Applying Dirichlet BCs took 0.016006 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 215 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 35.0383 s.
+[0] Convergence criterion: |dx|=1.7532e-04, |x|=1.9544e+00, |dx|/|x|=8.9706e-05
+[0] [time] Iteration #13 took 36.2237 s.
+[0] Integral of crack: 1.32572e-05
+[0] Elastic energy: 0.000789739 Surface energy: 0.288016 Pressure work: 0.000403261 Total energy: 0.288806 
+[0] [time] Solving process #0 took 437.46 s in time step #3  coupling iteration #0
+[0] [time] Applying Dirichlet BCs took 5.07832e-05 s.
+[0] [time] Assembly took 0.914055 s.
+  0 SNES Function norm 5.850547756974e-09 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[0] [time] Solving process #1 took 0.94094 s in time step #3  coupling iteration #0
+[0] [time] Assembly took 1.16647 s.
+[0] [time] Applying Dirichlet BCs took 0.0156856 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 287 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 46.2634 s.
+[0] Convergence criterion: |dx|=2.3218e-04, |x|=1.9544e+00, |dx|/|x|=1.1880e-04
+[0] [time] Iteration #1 took 47.4477 s.
+[0] [time] Assembly took 1.16964 s.
+[0] [time] Applying Dirichlet BCs took 0.0158851 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 385 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 61.9298 s.
+[0] Convergence criterion: |dx|=3.3824e-04, |x|=1.9544e+00, |dx|/|x|=1.7307e-04
+[0] [time] Iteration #2 took 63.1177 s.
+[0] [time] Assembly took 1.1714 s.
+[0] [time] Applying Dirichlet BCs took 0.0157843 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 152 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 25.0217 s.
+[0] Convergence criterion: |dx|=2.5053e-04, |x|=1.9544e+00, |dx|/|x|=1.2819e-04
+[0] [time] Iteration #3 took 26.2112 s.
+[0] [time] Assembly took 1.16516 s.
+[0] [time] Applying Dirichlet BCs took 0.0157001 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 261 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 42.1803 s.
+[0] Convergence criterion: |dx|=3.2522e-04, |x|=1.9544e+00, |dx|/|x|=1.6641e-04
+[0] [time] Iteration #4 took 43.3635 s.
+[0] [time] Assembly took 1.16712 s.
+[0] [time] Applying Dirichlet BCs took 0.0156972 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 146 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 24.1053 s.
+[0] Convergence criterion: |dx|=2.0037e-04, |x|=1.9544e+00, |dx|/|x|=1.0253e-04
+[0] [time] Iteration #5 took 25.2905 s.
+[0] [time] Assembly took 1.16977 s.
+[0] [time] Applying Dirichlet BCs took 0.0157404 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 235 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 38.1331 s.
+[0] Convergence criterion: |dx|=3.0003e-04, |x|=1.9544e+00, |dx|/|x|=1.5352e-04
+[0] [time] Iteration #6 took 39.3209 s.
+[0] [time] Assembly took 1.16917 s.
+[0] [time] Applying Dirichlet BCs took 0.0158653 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 122 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 20.2453 s.
+[0] Convergence criterion: |dx|=2.7676e-04, |x|=1.9544e+00, |dx|/|x|=1.4161e-04
+[0] [time] Iteration #7 took 21.4326 s.
+[0] [time] Assembly took 1.16449 s.
+[0] [time] Applying Dirichlet BCs took 0.0158565 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 171 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 28.0208 s.
+[0] Convergence criterion: |dx|=2.9418e-04, |x|=1.9544e+00, |dx|/|x|=1.5052e-04
+[0] [time] Iteration #8 took 29.2035 s.
+[0] [time] Assembly took 1.17198 s.
+[0] [time] Applying Dirichlet BCs took 0.0156965 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 146 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 24.1831 s.
+[0] Convergence criterion: |dx|=6.1090e-04, |x|=1.9544e+00, |dx|/|x|=3.1258e-04
+[0] [time] Iteration #9 took 25.3731 s.
+[0] [time] Assembly took 1.16631 s.
+[0] [time] Applying Dirichlet BCs took 0.0158644 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 357 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 57.461 s.
+[0] Convergence criterion: |dx|=3.0378e-04, |x|=1.9544e+00, |dx|/|x|=1.5544e-04
+[0] [time] Iteration #10 took 58.6455 s.
+[0] [time] Assembly took 1.16939 s.
+[0] [time] Applying Dirichlet BCs took 0.0158317 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 249 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 40.263 s.
+[0] Convergence criterion: |dx|=3.0356e-04, |x|=1.9544e+00, |dx|/|x|=1.5533e-04
+[0] [time] Iteration #11 took 41.4505 s.
+[0] [time] Assembly took 1.16866 s.
+[0] [time] Applying Dirichlet BCs took 0.0157921 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 81 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 13.7154 s.
+[0] Convergence criterion: |dx|=2.2710e-04, |x|=1.9544e+00, |dx|/|x|=1.1620e-04
+[0] [time] Iteration #12 took 14.9022 s.
+[0] [time] Assembly took 1.16541 s.
+[0] [time] Applying Dirichlet BCs took 0.0158584 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 73 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 12.4515 s.
+[0] Convergence criterion: |dx|=2.3599e-04, |x|=1.9544e+00, |dx|/|x|=1.2075e-04
+[0] [time] Iteration #13 took 13.6351 s.
+[0] [time] Assembly took 1.16779 s.
+[0] [time] Applying Dirichlet BCs took 0.0161176 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 186 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 30.0898 s.
+[0] Convergence criterion: |dx|=3.1103e-04, |x|=1.9544e+00, |dx|/|x|=1.5915e-04
+[0] [time] Iteration #14 took 31.2761 s.
+[0] [time] Assembly took 1.16706 s.
+[0] [time] Applying Dirichlet BCs took 0.0157332 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 302 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 48.4763 s.
+[0] Convergence criterion: |dx|=7.8942e-04, |x|=1.9544e+00, |dx|/|x|=4.0393e-04
+[0] [time] Iteration #15 took 49.6614 s.
+[0] [time] Assembly took 1.16674 s.
+[0] [time] Applying Dirichlet BCs took 0.0159538 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 316 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 50.5904 s.
+[0] Convergence criterion: |dx|=7.6179e-04, |x|=1.9544e+00, |dx|/|x|=3.8979e-04
+[0] [time] Iteration #16 took 51.7754 s.
+[0] [time] Assembly took 1.16813 s.
+[0] [time] Applying Dirichlet BCs took 0.0157607 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 111 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 18.4952 s.
+[0] Convergence criterion: |dx|=3.1357e-04, |x|=1.9544e+00, |dx|/|x|=1.6044e-04
+[0] [time] Iteration #17 took 19.6814 s.
+[0] [time] Assembly took 1.16612 s.
+[0] [time] Applying Dirichlet BCs took 0.0158818 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 81 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 13.8082 s.
+[0] Convergence criterion: |dx|=4.1329e-04, |x|=1.9544e+00, |dx|/|x|=2.1147e-04
+[0] [time] Iteration #18 took 14.9925 s.
+[0] [time] Assembly took 1.16761 s.
+[0] [time] Applying Dirichlet BCs took 0.0158763 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 99 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 16.6442 s.
+[0] Convergence criterion: |dx|=1.3329e-04, |x|=1.9544e+00, |dx|/|x|=6.8200e-05
+[0] [time] Iteration #19 took 17.83 s.
+[0] Integral of crack: 1.32676e-05
+[0] Elastic energy: 0.000789739 Surface energy: 0.288016 Pressure work: 0.000428472 Total energy: 0.288806 
+[0] [time] Solving process #0 took 635.466 s in time step #3  coupling iteration #1
+[0] [time] Applying Dirichlet BCs took 5.10216e-05 s.
+[0] [time] Assembly took 0.910468 s.
+  0 SNES Function norm 5.854657312634e-09 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[0] [time] Solving process #1 took 0.937547 s in time step #3  coupling iteration #1
+[0] ------- Checking convergence criterion for coupled solution  -------
+[0] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[0] Fracture width computataion after time step for output
+[0] [time] Time step #3 took 1074.98 s.
+[0] [time] Output of timestep 3 took 0.792821 s.
+[0] === Time stepping at step #4 and time 1 with step size 0.25
+[0] [time] Assembly took 1.16736 s.
+[0] [time] Applying Dirichlet BCs took 0.0159507 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 261 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 41.9771 s.
+[0] Convergence criterion: |dx|=8.9794e-04, |x|=1.9544e+00, |dx|/|x|=4.5945e-04
+[0] [time] Iteration #1 took 43.1625 s.
+[0] [time] Assembly took 1.17078 s.
+[0] [time] Applying Dirichlet BCs took 0.0158412 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 95 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 15.8975 s.
+[0] Convergence criterion: |dx|=2.1955e-04, |x|=1.9544e+00, |dx|/|x|=1.1234e-04
+[0] [time] Iteration #2 took 17.0865 s.
+[0] [time] Assembly took 1.167 s.
+[0] [time] Applying Dirichlet BCs took 0.0158839 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 153 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 24.9529 s.
+[0] Convergence criterion: |dx|=2.0634e-04, |x|=1.9544e+00, |dx|/|x|=1.0558e-04
+[0] [time] Iteration #3 took 26.1381 s.
+[0] [time] Assembly took 1.1687 s.
+[0] [time] Applying Dirichlet BCs took 0.0157802 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 181 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 29.418 s.
+[0] Convergence criterion: |dx|=7.3004e-04, |x|=1.9544e+00, |dx|/|x|=3.7354e-04
+[0] [time] Iteration #4 took 30.6048 s.
+[0] [time] Assembly took 1.16995 s.
+[0] [time] Applying Dirichlet BCs took 0.0156519 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 124 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 20.4902 s.
+[0] Convergence criterion: |dx|=7.2573e-04, |x|=1.9544e+00, |dx|/|x|=3.7134e-04
+[0] [time] Iteration #5 took 21.6781 s.
+[0] [time] Assembly took 1.16801 s.
+[0] [time] Applying Dirichlet BCs took 0.0161195 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 115 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 19.0894 s.
+[0] Convergence criterion: |dx|=4.3306e-04, |x|=1.9544e+00, |dx|/|x|=2.2158e-04
+[0] [time] Iteration #6 took 20.2759 s.
+[0] [time] Assembly took 1.22044 s.
+[0] [time] Applying Dirichlet BCs took 0.0165977 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 154 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 25.7977 s.
+[0] Convergence criterion: |dx|=1.6836e-04, |x|=1.9544e+00, |dx|/|x|=8.6146e-05
+[0] [time] Iteration #7 took 27.037 s.
+[0] Integral of crack: 1.32589e-05
+[0] Elastic energy: 0.000789739 Surface energy: 0.288016 Pressure work: 0.000440999 Total energy: 0.288806 
+[0] [time] Solving process #0 took 186.886 s in time step #4  coupling iteration #0
+[0] [time] Applying Dirichlet BCs took 4.81606e-05 s.
+[0] [time] Assembly took 0.964806 s.
+  0 SNES Function norm 5.851681923169e-09 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[0] [time] Solving process #1 took 0.993485 s in time step #4  coupling iteration #0
+[0] [time] Assembly took 1.23119 s.
+[0] [time] Applying Dirichlet BCs took 0.0166967 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 176 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 29.3238 s.
+[0] Convergence criterion: |dx|=1.8353e-04, |x|=1.9544e+00, |dx|/|x|=9.3909e-05
+[0] [time] Iteration #1 took 30.5738 s.
+[0] Integral of crack: 1.32631e-05
+[0] Elastic energy: 0.00078974 Surface energy: 0.288016 Pressure work: 0.000441997 Total energy: 0.288806 
+[0] [time] Solving process #0 took 31.4572 s in time step #4  coupling iteration #1
+[0] [time] Applying Dirichlet BCs took 4.88758e-05 s.
+[0] [time] Assembly took 0.911329 s.
+  0 SNES Function norm 5.852108861391e-09 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[0] [time] Solving process #1 took 0.938459 s in time step #4  coupling iteration #1
+[0] ------- Checking convergence criterion for coupled solution  -------
+[0] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[0] Fracture width computataion after time step for output
+[0] [time] Time step #4 took 220.441 s.
+[0] [time] Output of timestep 4 took 0.791123 s.
+[0] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[0] [time] Execution took 1515.48 s.
+[0] OGS terminated on 2020-11-12 12:05:46+010

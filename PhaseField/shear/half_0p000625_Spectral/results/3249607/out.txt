@@ -1,0 +1,2527 @@
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 17:24:14+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 17:24:14+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 17:24:14+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 17:24:14+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 17:24:14+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 17:24:14+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 17:24:14+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 17:24:14+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 17:24:14+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 17:24:14+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 17:24:14+0100.
+info: This is OpenGeoSys-6 version 6.2.1-756-gada996c34.
+info: OGS started on 2021-01-05 17:24:14+0100.
+[11] Reading binary mesh file ...
+[8] Reading binary mesh file ...
+[7] Reading binary mesh file ...
+[10] Reading binary mesh file ...
+[5] Reading binary mesh file ...
+[1] Reading binary mesh file ...
+[4] Reading binary mesh file ...
+[6] Reading binary mesh file ...
+[2] Reading binary mesh file ...
+[9] Reading binary mesh file ...
+[0] Reading binary mesh file ...
+[3] Reading binary mesh file ...
+[1] Could not open file '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/shear/Spectral///mesh_half_OGSNR_pf_ic_partitioned_cell_properties_cfg12.bin'.
+	You can ignore this warning if the mesh does not contain cell-wise property data.
+[6] Could not open file '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/shear/Spectral///mesh_half_OGSNR_pf_ic_partitioned_cell_properties_cfg12.bin'.
+	You can ignore this warning if the mesh does not contain cell-wise property data.
+[2] Could not open file '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/shear/Spectral///mesh_half_OGSNR_pf_ic_partitioned_cell_properties_cfg12.bin'.
+	You can ignore this warning if the mesh does not contain cell-wise property data.
+[7] Could not open file '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/shear/Spectral///mesh_half_OGSNR_pf_ic_partitioned_cell_properties_cfg12.bin'.
+	You can ignore this warning if the mesh does not contain cell-wise property data.
+[9] Could not open file '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/shear/Spectral///mesh_half_OGSNR_pf_ic_partitioned_cell_properties_cfg12.bin'.
+	You can ignore this warning if the mesh does not contain cell-wise property data.
+[4] Could not open file '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/shear/Spectral///mesh_half_OGSNR_pf_ic_partitioned_cell_properties_cfg12.bin'.
+	You can ignore this warning if the mesh does not contain cell-wise property data.
+[8] Could not open file '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/shear/Spectral///mesh_half_OGSNR_pf_ic_partitioned_cell_properties_cfg12.bin'.
+	You can ignore this warning if the mesh does not contain cell-wise property data.
+[10] Could not open file '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/shear/Spectral///mesh_half_OGSNR_pf_ic_partitioned_cell_properties_cfg12.bin'.
+	You can ignore this warning if the mesh does not contain cell-wise property data.
+[5] Could not open file '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/shear/Spectral///mesh_half_OGSNR_pf_ic_partitioned_cell_properties_cfg12.bin'.
+	You can ignore this warning if the mesh does not contain cell-wise property data.
+[3] Could not open file '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/shear/Spectral///mesh_half_OGSNR_pf_ic_partitioned_cell_properties_cfg12.bin'.
+	You can ignore this warning if the mesh does not contain cell-wise property data.
+[0] Could not open file '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/shear/Spectral///mesh_half_OGSNR_pf_ic_partitioned_cell_properties_cfg12.bin'.
+	You can ignore this warning if the mesh does not contain cell-wise property data.
+[11] Could not open file '/p/project/ogs6hpc2/data/phasefield/Mostafa/Opening/shear/Spectral///mesh_half_OGSNR_pf_ic_partitioned_cell_properties_cfg12.bin'.
+	You can ignore this warning if the mesh does not contain cell-wise property data.
+[4] [time] Reading the mesh took 1.014958 s.
+[6] [time] Reading the mesh took 1.015094 s.
+[5] [time] Reading the mesh took 1.015926 s.
+[8] [time] Reading the mesh took 1.016676 s.
+[1] [time] Reading the mesh took 1.020274 s.
+[10] [time] Reading the mesh took 1.023389 s.
+[11] [time] Reading the mesh took 1.025797 s.
+[0] [time] Reading the mesh took 1.026375 s.
+[3] [time] Reading the mesh took 1.028202 s.
+[7] [time] Reading the mesh took 1.033007 s.
+[9] [time] Reading the mesh took 1.040778 s.
+[2] [time] Reading the mesh took 1.042498 s.
+[10] Reading binary mesh file ...
+[9] Reading binary mesh file ...
+[3] Reading binary mesh file ...
+[2] Reading binary mesh file ...
+[6] Reading binary mesh file ...
+[8] Reading binary mesh file ...
+[0] Reading binary mesh file ...
+[4] Reading binary mesh file ...
+[7] Reading binary mesh file ...
+[5] Reading binary mesh file ...
+[11] Reading binary mesh file ...
+[1] Reading binary mesh file ...
+[4] [time] Reading the mesh took 0.069018 s.
+[1] [time] Reading the mesh took 0.069004 s.
+[10] [time] Reading the mesh took 0.069085 s.
+[0] [time] Reading the mesh took 0.069086 s.
+[2] [time] Reading the mesh took 0.069072 s.
+[11] [time] Reading the mesh took 0.069020 s.
+[5] [time] Reading the mesh took 0.069070 s.
+[3] [time] Reading the mesh took 0.069083 s.
+[9] [time] Reading the mesh took 0.069467 s.
+[6] [time] Reading the mesh took 0.069516 s.
+[8] [time] Reading the mesh took 0.069540 s.
+[7] [time] Reading the mesh took 0.069577 s.
+[9] Reading binary mesh file ...
+[3] Reading binary mesh file ...
+[11] Reading binary mesh file ...
+[8] Reading binary mesh file ...
+[2] Reading binary mesh file ...
+[0] Reading binary mesh file ...
+[4] Reading binary mesh file ...
+[6] Reading binary mesh file ...
+[7] Reading binary mesh file ...
+[5] Reading binary mesh file ...
+[1] Reading binary mesh file ...
+[10] Reading binary mesh file ...
+[0] [time] Reading the mesh took 0.058308 s.
+[6] [time] Reading the mesh took 0.058294 s.
+[4] [time] Reading the mesh took 0.058357 s.
+[10] [time] Reading the mesh took 0.058380 s.
+[1] [time] Reading the mesh took 0.058402 s.
+[8] [time] Reading the mesh took 0.058421 s.
+[5] [time] Reading the mesh took 0.058350 s.
+[7] [time] Reading the mesh took 0.058363 s.
+[11] [time] Reading the mesh took 0.058346 s.
+[9] [time] Reading the mesh took 0.058442 s.
+[3] [time] Reading the mesh took 0.058412 s.
+[2] [time] Reading the mesh took 0.058425 s.
+[5] Reading binary mesh file ...
+[3] Reading binary mesh file ...
+[8] Reading binary mesh file ...
+[11] Reading binary mesh file ...
+[4] Reading binary mesh file ...
+[0] Reading binary mesh file ...
+[2] Reading binary mesh file ...
+[9] Reading binary mesh file ...
+[10] Reading binary mesh file ...
+[6] Reading binary mesh file ...
+[7] Reading binary mesh file ...
+[1] Reading binary mesh file ...
+[11] [time] Reading the mesh took 0.014937 s.
+[2] [time] Reading the mesh took 0.014937 s.
+[8] [time] Reading the mesh took 0.014985 s.
+[7] [time] Reading the mesh took 0.014947 s.
+[10] [time] Reading the mesh took 0.015055 s.
+[4] [time] Reading the mesh took 0.015000 s.
+[0] [time] Reading the mesh took 0.015076 s.
+[9] [time] Reading the mesh took 0.015084 s.
+[1] [time] Reading the mesh took 0.015089 s.
+[6] [time] Reading the mesh took 0.015102 s.
+[3] [time] Reading the mesh took 0.015018 s.
+[5] [time] Reading the mesh took 0.015109 s.
+[3] Reading binary mesh file ...
+[7] Reading binary mesh file ...
+[2] Reading binary mesh file ...
+[4] Reading binary mesh file ...
+[8] Reading binary mesh file ...
+[5] Reading binary mesh file ...
+[0] Reading binary mesh file ...
+[10] Reading binary mesh file ...
+[6] Reading binary mesh file ...
+[1] Reading binary mesh file ...
+[11] Reading binary mesh file ...
+[9] Reading binary mesh file ...
+[1] [time] Reading the mesh took 0.008060 s.
+[3] [time] Reading the mesh took 0.008130 s.
+[2] [time] Reading the mesh took 0.008146 s.
+[4] [time] Reading the mesh took 0.008223 s.
+[8] [time] Reading the mesh took 0.008267 s.
+[6] [time] Reading the mesh took 0.008271 s.
+[9] [time] Reading the mesh took 0.008271 s.
+[11] [time] Reading the mesh took 0.008258 s.
+[10] [time] Reading the mesh took 0.008184 s.
+[0] [time] Reading the mesh took 0.008195 s.
+[7] [time] Reading the mesh took 0.008246 s.
+[5] [time] Reading the mesh took 0.008267 s.
+[5] Reading binary mesh file ...
+[1] Reading binary mesh file ...
+[7] Reading binary mesh file ...
+[11] Reading binary mesh file ...
+[6] Reading binary mesh file ...
+[0] Reading binary mesh file ...
+[8] Reading binary mesh file ...
+[10] Reading binary mesh file ...
+[3] Reading binary mesh file ...
+[4] Reading binary mesh file ...
+[2] Reading binary mesh file ...
+[9] Reading binary mesh file ...
+[0] [time] Reading the mesh took 0.021028 s.
+[8] [time] Reading the mesh took 0.021046 s.
+[11] [time] Reading the mesh took 0.021046 s.
+[10] [time] Reading the mesh took 0.021078 s.
+[1] [time] Reading the mesh took 0.021134 s.
+[9] [time] Reading the mesh took 0.021178 s.
+[5] [time] Reading the mesh took 0.021142 s.
+[2] [time] Reading the mesh took 0.021202 s.
+[7] [time] Reading the mesh took 0.021186 s.
+[3] [time] Reading the mesh took 0.021183 s.
+[4] [time] Reading the mesh took 0.021262 s.
+[6] [time] Reading the mesh took 0.021254 s.
+[5] Reading binary mesh file ...
+[11] Reading binary mesh file ...
+[0] Reading binary mesh file ...
+[10] Reading binary mesh file ...
+[2] Reading binary mesh file ...
+[4] Reading binary mesh file ...
+[8] Reading binary mesh file ...
+[6] Reading binary mesh file ...
+[7] Reading binary mesh file ...
+[1] Reading binary mesh file ...
+[3] Reading binary mesh file ...
+[9] Reading binary mesh file ...
+[8] [time] Reading the mesh took 0.018155 s.
+[0] [time] Reading the mesh took 0.018177 s.
+[6] [time] Reading the mesh took 0.018195 s.
+[1] [time] Reading the mesh took 0.018267 s.
+[11] [time] Reading the mesh took 0.018201 s.
+[9] [time] Reading the mesh took 0.018185 s.
+[10] [time] Reading the mesh took 0.018286 s.
+[7] [time] Reading the mesh took 0.018298 s.
+[2] [time] Reading the mesh took 0.018910 s.
+[4] [time] Reading the mesh took 0.018883 s.
+[3] [time] Reading the mesh took 0.018948 s.
+[5] [time] Reading the mesh took 0.018960 s.
+[10] Reading binary mesh file ...
+[0] Reading binary mesh file ...
+[7] Reading binary mesh file ...
+[3] Reading binary mesh file ...
+[5] Reading binary mesh file ...
+[2] Reading binary mesh file ...
+[4] Reading binary mesh file ...
+[1] Reading binary mesh file ...
+[11] Reading binary mesh file ...
+[9] Reading binary mesh file ...
+[6] Reading binary mesh file ...
+[8] Reading binary mesh file ...
+[8] [time] Reading the mesh took 0.009847 s.
+[6] [time] Reading the mesh took 0.009861 s.
+[2] [time] Reading the mesh took 0.009837 s.
+[1] [time] Reading the mesh took 0.009900 s.
+[4] [time] Reading the mesh took 0.009871 s.
+[5] [time] Reading the mesh took 0.009840 s.
+[7] [time] Reading the mesh took 0.009844 s.
+[10] [time] Reading the mesh took 0.009955 s.
+[0] [time] Reading the mesh took 0.009953 s.
+[3] [time] Reading the mesh took 0.009940 s.
+[11] [time] Reading the mesh took 0.009948 s.
+[9] [time] Reading the mesh took 0.009931 s.
+[2] Reading binary mesh file ...
+[6] Reading binary mesh file ...
+[1] Reading binary mesh file ...
+[11] Reading binary mesh file ...
+[5] Reading binary mesh file ...
+[8] Reading binary mesh file ...
+[4] Reading binary mesh file ...
+[0] Reading binary mesh file ...
+[3] Reading binary mesh file ...
+[10] Reading binary mesh file ...
+[7] Reading binary mesh file ...
+[9] Reading binary mesh file ...
+[5] [time] Reading the mesh took 0.009998 s.
+[1] [time] Reading the mesh took 0.010082 s.
+[0] [time] Reading the mesh took 0.010103 s.
+[10] [time] Reading the mesh took 0.010123 s.
+[8] [time] Reading the mesh took 0.010132 s.
+[6] [time] Reading the mesh took 0.010132 s.
+[4] [time] Reading the mesh took 0.010107 s.
+[7] [time] Reading the mesh took 0.010123 s.
+[9] [time] Reading the mesh took 0.010118 s.
+[11] [time] Reading the mesh took 0.010098 s.
+[2] [time] Reading the mesh took 0.010138 s.
+[3] [time] Reading the mesh took 0.010145 s.
+[5] ConstantParameter: E
+[3] ConstantParameter: E
+[6] ConstantParameter: E
+[2] ConstantParameter: E
+[10] ConstantParameter: E
+[8] ConstantParameter: E
+[0] ConstantParameter: E
+[4] ConstantParameter: E
+[7] ConstantParameter: E
+[11] ConstantParameter: E
+[9] ConstantParameter: E
+[1] ConstantParameter: E
+[9] ConstantParameter: nu
+[5] ConstantParameter: nu
+[4] ConstantParameter: nu
+[0] ConstantParameter: nu
+[9] ConstantParameter: k
+[5] ConstantParameter: k
+[4] ConstantParameter: k
+[0] ConstantParameter: k
+[1] ConstantParameter: nu
+[10] ConstantParameter: nu
+[3] ConstantParameter: nu
+[2] ConstantParameter: nu
+[6] ConstantParameter: nu
+[8] ConstantParameter: nu
+[7] ConstantParameter: nu
+[9] ConstantParameter: gc
+[9] ConstantParameter: ls
+[5] ConstantParameter: gc
+[4] ConstantParameter: gc
+[0] ConstantParameter: gc
+[1] ConstantParameter: k
+[10] ConstantParameter: k
+[3] ConstantParameter: k
+[2] ConstantParameter: k
+[6] ConstantParameter: k
+[8] ConstantParameter: k
+[7] ConstantParameter: k
+[11] ConstantParameter: nu
+[9] ConstantParameter: H
+[5] ConstantParameter: ls
+[4] ConstantParameter: ls
+[0] ConstantParameter: ls
+[1] ConstantParameter: gc
+[10] ConstantParameter: gc
+[3] ConstantParameter: gc
+[2] ConstantParameter: gc
+[6] ConstantParameter: gc
+[8] ConstantParameter: gc
+[7] ConstantParameter: gc
+[11] ConstantParameter: k
+[9] ConstantParameter: rho_sr
+[5] ConstantParameter: H
+[4] ConstantParameter: H
+[0] ConstantParameter: H
+[1] ConstantParameter: ls
+[10] ConstantParameter: ls
+[3] ConstantParameter: ls
+[2] ConstantParameter: ls
+[6] ConstantParameter: ls
+[8] ConstantParameter: ls
+[7] ConstantParameter: ls
+[11] ConstantParameter: gc
+[11] ConstantParameter: ls
+[9] ConstantParameter: displacement0
+[5] ConstantParameter: rho_sr
+[4] ConstantParameter: rho_sr
+[0] ConstantParameter: rho_sr
+[1] ConstantParameter: H
+[10] ConstantParameter: H
+[3] ConstantParameter: H
+[2] ConstantParameter: H
+[6] ConstantParameter: H
+[8] ConstantParameter: H
+[7] ConstantParameter: H
+[11] ConstantParameter: H
+[9] MeshNodeParameter: phasefield_ic
+[5] ConstantParameter: displacement0
+[4] ConstantParameter: displacement0
+[0] ConstantParameter: displacement0
+[1] ConstantParameter: rho_sr
+[10] ConstantParameter: rho_sr
+[3] ConstantParameter: rho_sr
+[2] ConstantParameter: rho_sr
+[6] ConstantParameter: rho_sr
+[8] ConstantParameter: rho_sr
+[7] ConstantParameter: rho_sr
+[11] ConstantParameter: rho_sr
+[9] ConstantParameter: phasefield_bc
+[5] MeshNodeParameter: phasefield_ic
+[4] MeshNodeParameter: phasefield_ic
+[0] MeshNodeParameter: phasefield_ic
+[1] ConstantParameter: displacement0
+[10] ConstantParameter: displacement0
+[3] ConstantParameter: displacement0
+[2] ConstantParameter: displacement0
+[6] ConstantParameter: displacement0
+[8] ConstantParameter: displacement0
+[7] ConstantParameter: displacement0
+[11] ConstantParameter: displacement0
+[9] ConstantParameter: dirichlet0
+[5] ConstantParameter: phasefield_bc
+[4] ConstantParameter: phasefield_bc
+[0] ConstantParameter: phasefield_bc
+[1] MeshNodeParameter: phasefield_ic
+[10] MeshNodeParameter: phasefield_ic
+[3] MeshNodeParameter: phasefield_ic
+[2] MeshNodeParameter: phasefield_ic
+[6] MeshNodeParameter: phasefield_ic
+[8] MeshNodeParameter: phasefield_ic
+[7] MeshNodeParameter: phasefield_ic
+[11] MeshNodeParameter: phasefield_ic
+[9] ConstantParameter: Dirichlet_spatial
+[5] ConstantParameter: dirichlet0
+[4] ConstantParameter: dirichlet0
+[0] ConstantParameter: dirichlet0
+[1] ConstantParameter: phasefield_bc
+[10] ConstantParameter: phasefield_bc
+[3] ConstantParameter: phasefield_bc
+[2] ConstantParameter: phasefield_bc
+[6] ConstantParameter: phasefield_bc
+[8] ConstantParameter: phasefield_bc
+[7] ConstantParameter: phasefield_bc
+[11] ConstantParameter: phasefield_bc
+[9] CurveScaledParameter: dirichlet_top_time
+[5] ConstantParameter: Dirichlet_spatial
+[4] ConstantParameter: Dirichlet_spatial
+[0] ConstantParameter: Dirichlet_spatial
+[1] ConstantParameter: dirichlet0
+[10] ConstantParameter: dirichlet0
+[3] ConstantParameter: dirichlet0
+[2] ConstantParameter: dirichlet0
+[6] ConstantParameter: dirichlet0
+[8] ConstantParameter: dirichlet0
+[7] ConstantParameter: dirichlet0
+[11] ConstantParameter: dirichlet0
+[9] ConstantParameter: dirichlet_top
+[5] CurveScaledParameter: dirichlet_top_time
+[4] CurveScaledParameter: dirichlet_top_time
+[0] CurveScaledParameter: dirichlet_top_time
+[1] ConstantParameter: Dirichlet_spatial
+[10] ConstantParameter: Dirichlet_spatial
+[3] ConstantParameter: Dirichlet_spatial
+[2] ConstantParameter: Dirichlet_spatial
+[6] ConstantParameter: Dirichlet_spatial
+[8] ConstantParameter: Dirichlet_spatial
+[7] ConstantParameter: Dirichlet_spatial
+[11] ConstantParameter: Dirichlet_spatial
+[9] ConstantParameter: M
+[5] ConstantParameter: dirichlet_top
+[4] ConstantParameter: dirichlet_top
+[0] ConstantParameter: dirichlet_top
+[1] CurveScaledParameter: dirichlet_top_time
+[10] CurveScaledParameter: dirichlet_top_time
+[3] CurveScaledParameter: dirichlet_top_time
+[2] CurveScaledParameter: dirichlet_top_time
+[6] CurveScaledParameter: dirichlet_top_time
+[8] CurveScaledParameter: dirichlet_top_time
+[7] CurveScaledParameter: dirichlet_top_time
+[11] CurveScaledParameter: dirichlet_top_time
+[9] ConstantParameter: neumann_force
+[5] ConstantParameter: M
+[4] ConstantParameter: M
+[0] ConstantParameter: M
+[1] ConstantParameter: dirichlet_top
+[10] ConstantParameter: dirichlet_top
+[3] ConstantParameter: dirichlet_top
+[2] ConstantParameter: dirichlet_top
+[6] ConstantParameter: dirichlet_top
+[8] ConstantParameter: dirichlet_top
+[8] ConstantParameter: M
+[7] ConstantParameter: dirichlet_top
+[11] ConstantParameter: dirichlet_top
+[11] ConstantParameter: M
+[11] ConstantParameter: neumann_force
+[9] ConstantParameter: neumann_force1
+[5] ConstantParameter: neumann_force
+[4] ConstantParameter: neumann_force
+[0] ConstantParameter: neumann_force
+[1] ConstantParameter: M
+[1] ConstantParameter: neumann_force
+[1] ConstantParameter: neumann_force1
+[10] ConstantParameter: M
+[3] ConstantParameter: M
+[2] ConstantParameter: M
+[6] ConstantParameter: M
+[8] ConstantParameter: neumann_force
+[7] ConstantParameter: M
+[11] ConstantParameter: neumann_force1
+[9] No source terms for process variable 'phasefield' found.
+[5] ConstantParameter: neumann_force1
+[4] ConstantParameter: neumann_force1
+[0] ConstantParameter: neumann_force1
+[1] No source terms for process variable 'phasefield' found.
+[10] ConstantParameter: neumann_force
+[3] ConstantParameter: neumann_force
+[2] ConstantParameter: neumann_force
+[6] ConstantParameter: neumann_force
+[8] ConstantParameter: neumann_force1
+[7] ConstantParameter: neumann_force
+[11] No source terms for process variable 'phasefield' found.
+[9] No source terms for process variable 'displacement' found.
+[5] No source terms for process variable 'phasefield' found.
+[4] No source terms for process variable 'phasefield' found.
+[0] No source terms for process variable 'phasefield' found.
+[1] No source terms for process variable 'displacement' found.
+[10] ConstantParameter: neumann_force1
+[3] ConstantParameter: neumann_force1
+[2] ConstantParameter: neumann_force1
+[6] ConstantParameter: neumann_force1
+[8] No source terms for process variable 'phasefield' found.
+[7] ConstantParameter: neumann_force1
+[11] No source terms for process variable 'displacement' found.
+[5] No source terms for process variable 'displacement' found.
+[4] No source terms for process variable 'displacement' found.
+[0] No source terms for process variable 'displacement' found.
+[10] No source terms for process variable 'phasefield' found.
+[3] No source terms for process variable 'phasefield' found.
+[2] No source terms for process variable 'phasefield' found.
+[6] No source terms for process variable 'phasefield' found.
+[8] No source terms for process variable 'displacement' found.
+[7] No source terms for process variable 'phasefield' found.
+[10] No source terms for process variable 'displacement' found.
+[3] No source terms for process variable 'displacement' found.
+[2] No source terms for process variable 'displacement' found.
+[6] No source terms for process variable 'displacement' found.
+[7] No source terms for process variable 'displacement' found.
+[5] The equations of the coupled processes will be solved by the staggered scheme.
+[4] The equations of the coupled processes will be solved by the staggered scheme.
+[2] The equations of the coupled processes will be solved by the staggered scheme.
+[9] The equations of the coupled processes will be solved by the staggered scheme.
+[8] The equations of the coupled processes will be solved by the staggered scheme.
+[3] The equations of the coupled processes will be solved by the staggered scheme.
+[3] Initialize processes.
+[11] The equations of the coupled processes will be solved by the staggered scheme.
+[11] Initialize processes.
+[1] The equations of the coupled processes will be solved by the staggered scheme.
+[6] The equations of the coupled processes will be solved by the staggered scheme.
+[6] Initialize processes.
+[5] Initialize processes.
+[4] Initialize processes.
+[2] Initialize processes.
+[9] Initialize processes.
+[8] Initialize processes.
+[1] Initialize processes.
+[0] The equations of the coupled processes will be solved by the staggered scheme.
+[0] Initialize processes.
+[10] The equations of the coupled processes will be solved by the staggered scheme.
+[10] Initialize processes.
+[7] The equations of the coupled processes will be solved by the staggered scheme.
+[7] Initialize processes.
+[5] Solve processes.
+[6] Solve processes.
+[8] Solve processes.
+[4] Solve processes.
+[1] Solve processes.
+[11] Solve processes.
+[3] Solve processes.
+[0] Solve processes.
+[10] Solve processes.
+[7] Solve processes.
+[9] Solve processes.
+[2] Solve processes.
+[5] [time] Output of timestep 0 took 0.237797 s.
+[5] === Time stepping at step #1 and time 0.25 with step size 0.25
+[3] [time] Output of timestep 0 took 0.301313 s.
+[3] === Time stepping at step #1 and time 0.25 with step size 0.25
+[11] [time] Output of timestep 0 took 0.302508 s.
+[11] === Time stepping at step #1 and time 0.25 with step size 0.25
+[10] [time] Output of timestep 0 took 0.303103 s.
+[10] === Time stepping at step #1 and time 0.25 with step size 0.25
+[1] [time] Output of timestep 0 took 0.304535 s.
+[1] === Time stepping at step #1 and time 0.25 with step size 0.25
+[7] [time] Output of timestep 0 took 0.307177 s.
+[7] === Time stepping at step #1 and time 0.25 with step size 0.25
+[4] [time] Output of timestep 0 took 0.307191 s.
+[4] === Time stepping at step #1 and time 0.25 with step size 0.25
+[6] [time] Output of timestep 0 took 0.307202 s.
+[6] === Time stepping at step #1 and time 0.25 with step size 0.25
+[9] [time] Output of timestep 0 took 0.311882 s.
+[9] === Time stepping at step #1 and time 0.25 with step size 0.25
+[8] [time] Output of timestep 0 took 0.311892 s.
+[8] === Time stepping at step #1 and time 0.25 with step size 0.25
+[2] [time] Output of timestep 0 took 0.314761 s.
+[2] === Time stepping at step #1 and time 0.25 with step size 0.25
+[0] [time] Output of timestep 0 took 0.315427 s.
+[0] === Time stepping at step #1 and time 0.25 with step size 0.25
+[3] [time] Assembly took 0.666825 s.
+[2] [time] Assembly took 0.66691 s.
+[7] [time] Assembly took 0.66708 s.
+[11] [time] Assembly took 0.667308 s.
+[10] [time] Assembly took 0.667318 s.
+[9] [time] Assembly took 0.667414 s.
+[0] [time] Assembly took 0.667435 s.
+[1] [time] Assembly took 0.66738 s.
+[6] [time] Assembly took 0.66748 s.
+[5] [time] Assembly took 0.667456 s.
+[4] [time] Assembly took 0.667474 s.
+[8] [time] Assembly took 0.667624 s.
+[11] [time] Applying Dirichlet BCs took 0.0129282 s.
+[9] [time] Applying Dirichlet BCs took 0.0129271 s.
+[10] [time] Applying Dirichlet BCs took 0.0130234 s.
+[6] [time] Applying Dirichlet BCs took 0.0131631 s.
+[8] [time] Applying Dirichlet BCs took 0.0126641 s.
+[7] [time] Applying Dirichlet BCs took 0.0132434 s.
+[5] [time] Applying Dirichlet BCs took 0.0128543 s.
+[4] [time] Applying Dirichlet BCs took 0.0128474 s.
+[2] [time] Applying Dirichlet BCs took 0.0133886 s.
+[0] [time] Applying Dirichlet BCs took 0.0128429 s.
+[3] [time] Applying Dirichlet BCs took 0.0135496 s.
+[1] [time] Applying Dirichlet BCs took 0.0128531 s.
+[11] [time] Linear solver took 41.9456 s.
+[9] [time] Linear solver took 41.9457 s.
+[7] [time] Linear solver took 41.9456 s.
+[3] [time] Linear solver took 41.9456 s.
+[8] [time] Linear solver took 41.9457 s.
+[10] [time] Linear solver took 41.9457 s.
+[6] [time] Linear solver took 41.9457 s.
+[5] [time] Linear solver took 41.9457 s.
+[4] [time] Linear solver took 41.9457 s.
+[2] [time] Linear solver took 41.9457 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 375 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 41.9457 s.
+[1] [time] Linear solver took 41.9456 s.
+[11] Convergence criterion: |dx|=3.4660e+00, |x|=3.4660e+00, |dx|/|x|=1.0000e+00
+[11] [time] Iteration #1 took 42.6284 s.
+[9] Convergence criterion: |dx|=3.4660e+00, |x|=3.4660e+00, |dx|/|x|=1.0000e+00
+[9] [time] Iteration #1 took 42.6285 s.
+[8] Convergence criterion: |dx|=3.4660e+00, |x|=3.4660e+00, |dx|/|x|=1.0000e+00
+[8] [time] Iteration #1 took 42.6284 s.
+[10] Convergence criterion: |dx|=3.4660e+00, |x|=3.4660e+00, |dx|/|x|=1.0000e+00
+[10] [time] Iteration #1 took 42.6285 s.
+[7] Convergence criterion: |dx|=3.4660e+00, |x|=3.4660e+00, |dx|/|x|=1.0000e+00
+[7] [time] Iteration #1 took 42.6284 s.
+[3] Convergence criterion: |dx|=3.4660e+00, |x|=3.4660e+00, |dx|/|x|=1.0000e+00
+[3] [time] Iteration #1 took 42.6285 s.
+[6] Convergence criterion: |dx|=3.4660e+00, |x|=3.4660e+00, |dx|/|x|=1.0000e+00
+[6] [time] Iteration #1 took 42.6288 s.
+[5] Convergence criterion: |dx|=3.4660e+00, |x|=3.4660e+00, |dx|/|x|=1.0000e+00
+[5] [time] Iteration #1 took 42.6284 s.
+[0] Convergence criterion: |dx|=3.4660e+00, |x|=3.4660e+00, |dx|/|x|=1.0000e+00
+[0] [time] Iteration #1 took 42.6284 s.
+[2] Convergence criterion: |dx|=3.4660e+00, |x|=3.4660e+00, |dx|/|x|=1.0000e+00
+[2] [time] Iteration #1 took 42.6284 s.
+[4] Convergence criterion: |dx|=3.4660e+00, |x|=3.4660e+00, |dx|/|x|=1.0000e+00
+[4] [time] Iteration #1 took 42.6285 s.
+[1] Convergence criterion: |dx|=3.4660e+00, |x|=3.4660e+00, |dx|/|x|=1.0000e+00
+[1] [time] Iteration #1 took 42.6284 s.
+[9] [time] Assembly took 0.661703 s.
+[11] [time] Assembly took 0.661722 s.
+[3] [time] Assembly took 0.661657 s.
+[6] [time] Assembly took 0.661712 s.
+[10] [time] Assembly took 0.661705 s.
+[8] [time] Assembly took 0.661743 s.
+[2] [time] Assembly took 0.661707 s.
+[4] [time] Assembly took 0.661706 s.
+[5] [time] Assembly took 0.661694 s.
+[7] [time] Assembly took 0.661704 s.
+[0] [time] Assembly took 0.66171 s.
+[1] [time] Assembly took 0.661694 s.
+[11] [time] Applying Dirichlet BCs took 0.0108399 s.
+[9] [time] Applying Dirichlet BCs took 0.0108662 s.
+[3] [time] Applying Dirichlet BCs took 0.0108616 s.
+[1] [time] Applying Dirichlet BCs took 0.0107539 s.
+[7] [time] Applying Dirichlet BCs took 0.0108042 s.
+[8] [time] Applying Dirichlet BCs took 0.0107598 s.
+[6] [time] Applying Dirichlet BCs took 0.0108509 s.
+[5] [time] Applying Dirichlet BCs took 0.0108612 s.
+[10] [time] Applying Dirichlet BCs took 0.0107584 s.
+[4] [time] Applying Dirichlet BCs took 0.0108094 s.
+[0] [time] Applying Dirichlet BCs took 0.010747 s.
+[2] [time] Applying Dirichlet BCs took 0.0107703 s.
+[9] [time] Linear solver took 34.6233 s.
+[11] [time] Linear solver took 34.6233 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 311 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 34.6234 s.
+[8] [time] Linear solver took 34.6233 s.
+[6] [time] Linear solver took 34.6233 s.
+[10] [time] Linear solver took 34.6233 s.
+[5] [time] Linear solver took 34.6233 s.
+[4] [time] Linear solver took 34.6233 s.
+[7] [time] Linear solver took 34.6233 s.
+[2] [time] Linear solver took 34.6233 s.
+[3] [time] Linear solver took 34.6233 s.
+[1] [time] Linear solver took 34.6233 s.
+[10] Convergence criterion: |dx|=4.8016e-03, |x|=3.4638e+00, |dx|/|x|=1.3862e-03
+[6] Convergence criterion: |dx|=4.8016e-03, |x|=3.4638e+00, |dx|/|x|=1.3862e-03
+[4] Convergence criterion: |dx|=4.8016e-03, |x|=3.4638e+00, |dx|/|x|=1.3862e-03
+[0] Convergence criterion: |dx|=4.8016e-03, |x|=3.4638e+00, |dx|/|x|=1.3862e-03
+[8] Convergence criterion: |dx|=4.8016e-03, |x|=3.4638e+00, |dx|/|x|=1.3862e-03
+[5] Convergence criterion: |dx|=4.8016e-03, |x|=3.4638e+00, |dx|/|x|=1.3862e-03
+[5] [time] Iteration #2 took 35.2973 s.
+[7] Convergence criterion: |dx|=4.8016e-03, |x|=3.4638e+00, |dx|/|x|=1.3862e-03
+[7] [time] Iteration #2 took 35.2973 s.
+[11] Convergence criterion: |dx|=4.8016e-03, |x|=3.4638e+00, |dx|/|x|=1.3862e-03
+[11] [time] Iteration #2 took 35.2973 s.
+[9] Convergence criterion: |dx|=4.8016e-03, |x|=3.4638e+00, |dx|/|x|=1.3862e-03
+[9] [time] Iteration #2 took 35.2973 s.
+[3] Convergence criterion: |dx|=4.8016e-03, |x|=3.4638e+00, |dx|/|x|=1.3862e-03
+[3] [time] Iteration #2 took 35.2973 s.
+[2] Convergence criterion: |dx|=4.8016e-03, |x|=3.4638e+00, |dx|/|x|=1.3862e-03
+[2] [time] Iteration #2 took 35.2973 s.
+[1] Convergence criterion: |dx|=4.8016e-03, |x|=3.4638e+00, |dx|/|x|=1.3862e-03
+[1] [time] Iteration #2 took 35.2972 s.
+[10] [time] Iteration #2 took 35.2973 s.
+[6] [time] Iteration #2 took 35.2973 s.
+[4] [time] Iteration #2 took 35.2973 s.
+[0] [time] Iteration #2 took 35.2972 s.
+[8] [time] Iteration #2 took 35.2973 s.
+[9] [time] Assembly took 0.662264 s.
+[11] [time] Assembly took 0.662256 s.
+[3] [time] Assembly took 0.662201 s.
+[7] [time] Assembly took 0.662218 s.
+[5] [time] Assembly took 0.662217 s.
+[2] [time] Assembly took 0.662253 s.
+[4] [time] Assembly took 0.662242 s.
+[10] [time] Assembly took 0.662253 s.
+[0] [time] Assembly took 0.662239 s.
+[1] [time] Assembly took 0.662237 s.
+[8] [time] Assembly took 0.662275 s.
+[6] [time] Assembly took 0.662292 s.
+[11] [time] Applying Dirichlet BCs took 0.0103083 s.
+[9] [time] Applying Dirichlet BCs took 0.010303 s.
+[7] [time] Applying Dirichlet BCs took 0.0103545 s.
+[5] [time] Applying Dirichlet BCs took 0.0103517 s.
+[3] [time] Applying Dirichlet BCs took 0.0103612 s.
+[1] [time] Applying Dirichlet BCs took 0.0103147 s.
+[6] [time] Applying Dirichlet BCs took 0.0102773 s.
+[8] [time] Applying Dirichlet BCs took 0.0102792 s.
+[10] [time] Applying Dirichlet BCs took 0.0102975 s.
+[4] [time] Applying Dirichlet BCs took 0.010309 s.
+[2] [time] Applying Dirichlet BCs took 0.0103087 s.
+[0] [time] Applying Dirichlet BCs took 0.0103052 s.
+[11] [time] Linear solver took 26.5313 s.
+[9] [time] Linear solver took 26.5314 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 237 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 26.5314 s.
+[8] [time] Linear solver took 26.5313 s.
+[6] [time] Linear solver took 26.5313 s.
+[10] [time] Linear solver took 26.5313 s.
+[5] [time] Linear solver took 26.5313 s.
+[4] [time] Linear solver took 26.5313 s.
+[7] [time] Linear solver took 26.5313 s.
+[2] [time] Linear solver took 26.5313 s.
+[3] [time] Linear solver took 26.5313 s.
+[1] [time] Linear solver took 26.5313 s.
+[6] Convergence criterion: |dx|=1.4031e-04, |x|=3.4638e+00, |dx|/|x|=4.0506e-05
+[10] Convergence criterion: |dx|=1.4031e-04, |x|=3.4638e+00, |dx|/|x|=4.0506e-05
+[8] Convergence criterion: |dx|=1.4031e-04, |x|=3.4638e+00, |dx|/|x|=4.0506e-05
+[0] Convergence criterion: |dx|=1.4031e-04, |x|=3.4638e+00, |dx|/|x|=4.0506e-05
+[11] Convergence criterion: |dx|=1.4031e-04, |x|=3.4638e+00, |dx|/|x|=4.0506e-05
+[11] [time] Iteration #3 took 27.2053 s.
+[4] Convergence criterion: |dx|=1.4031e-04, |x|=3.4638e+00, |dx|/|x|=4.0506e-05
+[5] Convergence criterion: |dx|=1.4031e-04, |x|=3.4638e+00, |dx|/|x|=4.0506e-05
+[5] [time] Iteration #3 took 27.2053 s.
+[9] Convergence criterion: |dx|=1.4031e-04, |x|=3.4638e+00, |dx|/|x|=4.0506e-05
+[9] [time] Iteration #3 took 27.2053 s.
+[7] Convergence criterion: |dx|=1.4031e-04, |x|=3.4638e+00, |dx|/|x|=4.0506e-05
+[7] [time] Iteration #3 took 27.2053 s.
+[3] Convergence criterion: |dx|=1.4031e-04, |x|=3.4638e+00, |dx|/|x|=4.0506e-05
+[3] [time] Iteration #3 took 27.2053 s.
+[1] Convergence criterion: |dx|=1.4031e-04, |x|=3.4638e+00, |dx|/|x|=4.0506e-05
+[1] [time] Iteration #3 took 27.2053 s.
+[2] Convergence criterion: |dx|=1.4031e-04, |x|=3.4638e+00, |dx|/|x|=4.0506e-05
+[2] [time] Iteration #3 took 27.2053 s.
+[6] [time] Iteration #3 took 27.2053 s.
+[10] [time] Iteration #3 took 27.2053 s.
+[8] [time] Iteration #3 took 27.2053 s.
+[0] [time] Iteration #3 took 27.2053 s.
+[4] [time] Iteration #3 took 27.2053 s.
+[11] Integral of crack: 1.46154e-06
+[9] Integral of crack: 1.46154e-06
+[6] Integral of crack: 1.46154e-06
+[10] Integral of crack: 1.46154e-06
+[4] Integral of crack: 1.46154e-06
+[8] Integral of crack: 1.46154e-06
+[2] Integral of crack: 1.46154e-06
+[0] Integral of crack: 1.46154e-06
+[5] Integral of crack: 1.46154e-06
+[7] Integral of crack: 1.46154e-06
+[3] Integral of crack: 1.46154e-06
+[1] Integral of crack: 1.46154e-06
+[11] Elastic energy: 0.000394814 Surface energy: 0.207988 Pressure work: 0.000197388 Total energy: 0.208383 
+[9] Elastic energy: 0.000394814 Surface energy: 0.207988 Pressure work: 0.000197388 Total energy: 0.208383 
+[11] [time] Solving process #0 took 105.606 s in time step #1  coupling iteration #0
+[9] [time] Solving process #0 took 105.606 s in time step #1  coupling iteration #0
+[8] Elastic energy: 0.000394814 Surface energy: 0.207988 Pressure work: 0.000197388 Total energy: 0.208383 
+[8] [time] Solving process #0 took 105.606 s in time step #1  coupling iteration #0
+[6] Elastic energy: 0.000394814 Surface energy: 0.207988 Pressure work: 0.000197388 Total energy: 0.208383 
+[6] [time] Solving process #0 took 105.606 s in time step #1  coupling iteration #0
+[10] Elastic energy: 0.000394814 Surface energy: 0.207988 Pressure work: 0.000197388 Total energy: 0.208383 
+[10] [time] Solving process #0 took 105.606 s in time step #1  coupling iteration #0
+[2] Elastic energy: 0.000394814 Surface energy: 0.207988 Pressure work: 0.000197388 Total energy: 0.208383 
+[2] [time] Solving process #0 took 105.605 s in time step #1  coupling iteration #0
+[4] Elastic energy: 0.000394814 Surface energy: 0.207988 Pressure work: 0.000197388 Total energy: 0.208383 
+[4] [time] Solving process #0 took 105.606 s in time step #1  coupling iteration #0
+[7] Elastic energy: 0.000394814 Surface energy: 0.207988 Pressure work: 0.000197388 Total energy: 0.208383 
+[7] [time] Solving process #0 took 105.606 s in time step #1  coupling iteration #0
+[5] Elastic energy: 0.000394814 Surface energy: 0.207988 Pressure work: 0.000197388 Total energy: 0.208383 
+[5] [time] Solving process #0 took 105.606 s in time step #1  coupling iteration #0
+[0] Elastic energy: 0.000394814 Surface energy: 0.207988 Pressure work: 0.000197388 Total energy: 0.208383 
+[0] [time] Solving process #0 took 105.606 s in time step #1  coupling iteration #0
+[3] Elastic energy: 0.000394814 Surface energy: 0.207988 Pressure work: 0.000197388 Total energy: 0.208383 
+[3] [time] Solving process #0 took 105.606 s in time step #1  coupling iteration #0
+[1] Elastic energy: 0.000394814 Surface energy: 0.207988 Pressure work: 0.000197388 Total energy: 0.208383 
+[1] [time] Solving process #0 took 105.606 s in time step #1  coupling iteration #0
+[11] [time] Applying Dirichlet BCs took 0.000431299 s.
+[9] [time] Applying Dirichlet BCs took 0.000429869 s.
+[5] [time] Applying Dirichlet BCs took 3.6478e-05 s.
+[8] [time] Applying Dirichlet BCs took 0.00042367 s.
+[10] [time] Applying Dirichlet BCs took 0.000422478 s.
+[4] [time] Applying Dirichlet BCs took 3.79086e-05 s.
+[6] [time] Applying Dirichlet BCs took 0.000202656 s.
+[3] [time] Applying Dirichlet BCs took 0.000329733 s.
+[7] [time] Applying Dirichlet BCs took 0.000433445 s.
+[0] [time] Applying Dirichlet BCs took 0.000418186 s.
+[2] [time] Applying Dirichlet BCs took 0.000123739 s.
+[1] [time] Applying Dirichlet BCs took 0.000323296 s.
+[11] [time] Assembly took 0.528929 s.
+[9] [time] Assembly took 0.528934 s.
+[5] [time] Assembly took 0.528923 s.
+[7] [time] Assembly took 0.528937 s.
+[1] [time] Assembly took 0.528878 s.
+[3] [time] Assembly took 0.52892 s.
+[8] [time] Assembly took 0.528897 s.
+[10] [time] Assembly took 0.528896 s.
+[2] [time] Assembly took 0.528926 s.
+[6] [time] Assembly took 0.528936 s.
+[4] [time] Assembly took 0.52893 s.
+[0] [time] Assembly took 0.528891 s.
+  0 SNES Function norm 1.470045515342e-02 
+[9] [time] Assembly took 0.510522 s.
+[11] [time] Assembly took 0.510499 s.
+[7] [time] Assembly took 0.510513 s.
+[5] [time] Assembly took 0.510515 s.
+[3] [time] Assembly took 0.510518 s.
+[10] [time] Assembly took 0.510608 s.
+[8] [time] Assembly took 0.510647 s.
+[6] [time] Assembly took 0.510654 s.
+[4] [time] Assembly took 0.510638 s.
+[2] [time] Assembly took 0.51066 s.
+[0] [time] Assembly took 0.510654 s.
+[1] [time] Assembly took 0.510539 s.
+[11] [time] Assembly took 0.510936 s.
+[9] [time] Assembly took 0.510911 s.
+[4] [time] Assembly took 0.510924 s.
+[3] [time] Assembly took 0.510909 s.
+[1] [time] Assembly took 0.510918 s.
+[10] [time] Assembly took 0.510938 s.
+[6] [time] Assembly took 0.51094 s.
+[8] [time] Assembly took 0.510931 s.
+[0] [time] Assembly took 0.51092 s.
+[2] [time] Assembly took 0.510927 s.
+[7] [time] Assembly took 0.510923 s.
+[5] [time] Assembly took 0.510942 s.
+[11] [time] Assembly took 0.510791 s.
+[9] [time] Assembly took 0.510797 s.
+[5] [time] Assembly took 0.510798 s.
+[7] [time] Assembly took 0.510782 s.
+[4] [time] Assembly took 0.510803 s.
+[3] [time] Assembly took 0.510796 s.
+[6] [time] Assembly took 0.510808 s.
+[10] [time] Assembly took 0.510813 s.
+[8] [time] Assembly took 0.510814 s.
+[2] [time] Assembly took 0.510815 s.
+[0] [time] Assembly took 0.510798 s.
+[1] [time] Assembly took 0.510797 s.
+  1 SNES Function norm 4.687195212207e-03 
+[11] [time] Assembly took 0.511278 s.
+[9] [time] Assembly took 0.511284 s.
+[1] [time] Assembly took 0.511284 s.
+[10] [time] Assembly took 0.511276 s.
+[8] [time] Assembly took 0.511275 s.
+[6] [time] Assembly took 0.511285 s.
+[5] [time] Assembly took 0.511267 s.
+[7] [time] Assembly took 0.51128 s.
+[2] [time] Assembly took 0.511306 s.
+[4] [time] Assembly took 0.511298 s.
+[0] [time] Assembly took 0.511299 s.
+[3] [time] Assembly took 0.511283 s.
+[9] [time] Assembly took 0.510916 s.
+[11] [time] Assembly took 0.510918 s.
+[5] [time] Assembly took 0.510912 s.
+[4] [time] Assembly took 0.51092 s.
+[10] [time] Assembly took 0.510933 s.
+[8] [time] Assembly took 0.510933 s.
+[6] [time] Assembly took 0.510951 s.
+[2] [time] Assembly took 0.510928 s.
+[7] [time] Assembly took 0.510934 s.
+[0] [time] Assembly took 0.51094 s.
+[1] [time] Assembly took 0.510914 s.
+[3] [time] Assembly took 0.510919 s.
+[9] [time] Assembly took 0.511665 s.
+[11] [time] Assembly took 0.511689 s.
+[5] [time] Assembly took 0.511679 s.
+[7] [time] Assembly took 0.511659 s.
+[4] [time] Assembly took 0.511671 s.
+[3] [time] Assembly took 0.511662 s.
+[6] [time] Assembly took 0.511686 s.
+[0] [time] Assembly took 0.511672 s.
+[2] [time] Assembly took 0.511688 s.
+[8] [time] Assembly took 0.511697 s.
+[10] [time] Assembly took 0.511676 s.
+[1] [time] Assembly took 0.511664 s.
+  2 SNES Function norm 1.128907146419e-03 
+[11] [time] Assembly took 0.511867 s.
+[9] [time] Assembly took 0.511894 s.
+[7] [time] Assembly took 0.511888 s.
+[4] [time] Assembly took 0.511892 s.
+[3] [time] Assembly took 0.511879 s.
+[10] [time] Assembly took 0.511887 s.
+[6] [time] Assembly took 0.511903 s.
+[2] [time] Assembly took 0.511917 s.
+[8] [time] Assembly took 0.511899 s.
+[5] [time] Assembly took 0.511897 s.
+[0] [time] Assembly took 0.511887 s.
+[1] [time] Assembly took 0.511898 s.
+[5] [time] Assembly took 0.511515 s.
+[6] [time] Assembly took 0.511535 s.
+[11] [time] Assembly took 0.511527 s.
+[4] [time] Assembly took 0.511523 s.
+[1] [time] Assembly took 0.511512 s.
+[7] [time] Assembly took 0.511515 s.
+[9] [time] Assembly took 0.511521 s.
+[3] [time] Assembly took 0.511533 s.
+[10] [time] Assembly took 0.511535 s.
+[8] [time] Assembly took 0.511542 s.
+[2] [time] Assembly took 0.511547 s.
+[0] [time] Assembly took 0.511534 s.
+[9] [time] Assembly took 0.511293 s.
+[11] [time] Assembly took 0.511318 s.
+[3] [time] Assembly took 0.511292 s.
+[8] [time] Assembly took 0.511311 s.
+[5] [time] Assembly took 0.511317 s.
+[7] [time] Assembly took 0.51131 s.
+[4] [time] Assembly took 0.51131 s.
+[2] [time] Assembly took 0.511309 s.
+[10] [time] Assembly took 0.511312 s.
+[6] [time] Assembly took 0.511319 s.
+[0] [time] Assembly took 0.511303 s.
+[1] [time] Assembly took 0.511308 s.
+  3 SNES Function norm 3.173213185485e-06 
+[11] [time] Assembly took 0.511072 s.
+[9] [time] Assembly took 0.511088 s.
+[7] [time] Assembly took 0.51109 s.
+[1] [time] Assembly took 0.511078 s.
+[10] [time] Assembly took 0.511066 s.
+[8] [time] Assembly took 0.51111 s.
+[6] [time] Assembly took 0.511111 s.
+[2] [time] Assembly took 0.511137 s.
+[0] [time] Assembly took 0.511105 s.
+[4] [time] Assembly took 0.5111 s.
+[5] [time] Assembly took 0.511097 s.
+[3] [time] Assembly took 0.511098 s.
+[9] [time] Assembly took 0.511815 s.
+[11] [time] Assembly took 0.51181 s.
+[5] [time] Assembly took 0.511821 s.
+[4] [time] Assembly took 0.511822 s.
+[7] [time] Assembly took 0.5118 s.
+[3] [time] Assembly took 0.511811 s.
+[10] [time] Assembly took 0.511818 s.
+[6] [time] Assembly took 0.511835 s.
+[8] [time] Assembly took 0.511846 s.
+[2] [time] Assembly took 0.51183 s.
+[0] [time] Assembly took 0.511813 s.
+[1] [time] Assembly took 0.511829 s.
+[11] [time] Assembly took 0.511073 s.
+[9] [time] Assembly took 0.511074 s.
+[0] [time] Assembly took 0.511069 s.
+[3] [time] Assembly took 0.511058 s.
+[10] [time] Assembly took 0.511081 s.
+[8] [time] Assembly took 0.511105 s.
+[6] [time] Assembly took 0.511092 s.
+[7] [time] Assembly took 0.511066 s.
+[5] [time] Assembly took 0.511079 s.
+[4] [time] Assembly took 0.511087 s.
+[2] [time] Assembly took 0.511101 s.
+[1] [time] Assembly took 0.511074 s.
+[11] PETScSNES used 4 iterations.
+[11] PETSsSNES reason 2.
+[9] PETScSNES used 4 iterations.
+[9] PETSsSNES reason 2.
+[6] PETScSNES used 4 iterations.
+[6] PETSsSNES reason 2.
+[2] PETScSNES used 4 iterations.
+[2] PETSsSNES reason 2.
+[4] PETScSNES used 4 iterations.
+[4] PETSsSNES reason 2.
+[8] PETScSNES used 4 iterations.
+[8] PETSsSNES reason 2.
+[10] PETScSNES used 4 iterations.
+[10] PETSsSNES reason 2.
+[5] PETScSNES used 4 iterations.
+[5] PETSsSNES reason 2.
+[7] PETScSNES used 4 iterations.
+[7] PETSsSNES reason 2.
+  4 SNES Function norm 1.762781469077e-12 
+[0] PETScSNES used 4 iterations.
+[0] PETSsSNES reason 2.
+[3] PETScSNES used 4 iterations.
+[3] PETSsSNES reason 2.
+[1] PETScSNES used 4 iterations.
+[1] PETSsSNES reason 2.
+[3] [time] Solving process #1 took 6.94784 s in time step #1  coupling iteration #0
+[7] [time] Solving process #1 took 6.94781 s in time step #1  coupling iteration #0
+[11] [time] Solving process #1 took 6.94779 s in time step #1  coupling iteration #0
+[6] [time] Solving process #1 took 6.94781 s in time step #1  coupling iteration #0
+[2] [time] Solving process #1 took 6.9478 s in time step #1  coupling iteration #0
+[5] [time] Solving process #1 took 6.9478 s in time step #1  coupling iteration #0
+[1] [time] Solving process #1 took 6.94783 s in time step #1  coupling iteration #0
+[9] [time] Solving process #1 took 6.9478 s in time step #1  coupling iteration #0
+[8] [time] Solving process #1 took 6.94781 s in time step #1  coupling iteration #0
+[4] [time] Solving process #1 took 6.94781 s in time step #1  coupling iteration #0
+[0] [time] Solving process #1 took 6.9478 s in time step #1  coupling iteration #0
+[10] [time] Solving process #1 took 6.9478 s in time step #1  coupling iteration #0
+[3] [time] Assembly took 0.65949 s.
+[11] [time] Assembly took 0.6596 s.
+[9] [time] Assembly took 0.659602 s.
+[6] [time] Assembly took 0.659582 s.
+[7] [time] Assembly took 0.659576 s.
+[2] [time] Assembly took 0.659571 s.
+[0] [time] Assembly took 0.659584 s.
+[10] [time] Assembly took 0.659599 s.
+[1] [time] Assembly took 0.659574 s.
+[8] [time] Assembly took 0.65964 s.
+[4] [time] Assembly took 0.659622 s.
+[5] [time] Assembly took 0.659612 s.
+[11] [time] Applying Dirichlet BCs took 0.0101805 s.
+[9] [time] Applying Dirichlet BCs took 0.0101635 s.
+[8] [time] Applying Dirichlet BCs took 0.0101385 s.
+[6] [time] Applying Dirichlet BCs took 0.0101962 s.
+[10] [time] Applying Dirichlet BCs took 0.0101748 s.
+[2] [time] Applying Dirichlet BCs took 0.0101833 s.
+[5] [time] Applying Dirichlet BCs took 0.0101757 s.
+[7] [time] Applying Dirichlet BCs took 0.0102067 s.
+[4] [time] Applying Dirichlet BCs took 0.0101409 s.
+[3] [time] Applying Dirichlet BCs took 0.0102704 s.
+[1] [time] Applying Dirichlet BCs took 0.0102015 s.
+[0] [time] Applying Dirichlet BCs took 0.0101752 s.
+[9] [time] Linear solver took 33.6911 s.
+[11] [time] Linear solver took 33.6911 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 302 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 33.6912 s.
+[4] [time] Linear solver took 33.6911 s.
+[6] [time] Linear solver took 33.6911 s.
+[3] [time] Linear solver took 33.6911 s.
+[7] [time] Linear solver took 33.6911 s.
+[10] [time] Linear solver took 33.6911 s.
+[1] [time] Linear solver took 33.6911 s.
+[8] [time] Linear solver took 33.6911 s.
+[2] [time] Linear solver took 33.6911 s.
+[5] [time] Linear solver took 33.6911 s.
+[8] Convergence criterion: |dx|=3.2912e-03, |x|=3.4654e+00, |dx|/|x|=9.4972e-04
+[10] Convergence criterion: |dx|=3.2912e-03, |x|=3.4654e+00, |dx|/|x|=9.4972e-04
+[6] Convergence criterion: |dx|=3.2912e-03, |x|=3.4654e+00, |dx|/|x|=9.4972e-04
+[4] Convergence criterion: |dx|=3.2912e-03, |x|=3.4654e+00, |dx|/|x|=9.4972e-04
+[5] Convergence criterion: |dx|=3.2912e-03, |x|=3.4654e+00, |dx|/|x|=9.4972e-04
+[5] [time] Iteration #1 took 34.3623 s.
+[11] Convergence criterion: |dx|=3.2912e-03, |x|=3.4654e+00, |dx|/|x|=9.4972e-04
+[11] [time] Iteration #1 took 34.3623 s.
+[9] Convergence criterion: |dx|=3.2912e-03, |x|=3.4654e+00, |dx|/|x|=9.4972e-04
+[9] [time] Iteration #1 took 34.3623 s.
+[3] Convergence criterion: |dx|=3.2912e-03, |x|=3.4654e+00, |dx|/|x|=9.4972e-04
+[3] [time] Iteration #1 took 34.3623 s.
+[7] Convergence criterion: |dx|=3.2912e-03, |x|=3.4654e+00, |dx|/|x|=9.4972e-04
+[7] [time] Iteration #1 took 34.3623 s.
+[0] Convergence criterion: |dx|=3.2912e-03, |x|=3.4654e+00, |dx|/|x|=9.4972e-04
+[2] Convergence criterion: |dx|=3.2912e-03, |x|=3.4654e+00, |dx|/|x|=9.4972e-04
+[2] [time] Iteration #1 took 34.3623 s.
+[1] Convergence criterion: |dx|=3.2912e-03, |x|=3.4654e+00, |dx|/|x|=9.4972e-04
+[1] [time] Iteration #1 took 34.3623 s.
+[8] [time] Iteration #1 took 34.3623 s.
+[10] [time] Iteration #1 took 34.3623 s.
+[6] [time] Iteration #1 took 34.3623 s.
+[4] [time] Iteration #1 took 34.3623 s.
+[0] [time] Iteration #1 took 34.3623 s.
+[9] [time] Assembly took 0.66041 s.
+[11] [time] Assembly took 0.660426 s.
+[3] [time] Assembly took 0.660362 s.
+[7] [time] Assembly took 0.660379 s.
+[6] [time] Assembly took 0.660406 s.
+[10] [time] Assembly took 0.660415 s.
+[5] [time] Assembly took 0.660428 s.
+[2] [time] Assembly took 0.660421 s.
+[0] [time] Assembly took 0.660414 s.
+[8] [time] Assembly took 0.66045 s.
+[4] [time] Assembly took 0.660455 s.
+[1] [time] Assembly took 0.660458 s.
+[11] [time] Applying Dirichlet BCs took 0.0104089 s.
+[9] [time] Applying Dirichlet BCs took 0.0104282 s.
+[7] [time] Applying Dirichlet BCs took 0.0104654 s.
+[6] [time] Applying Dirichlet BCs took 0.0104127 s.
+[5] [time] Applying Dirichlet BCs took 0.0104115 s.
+[0] [time] Applying Dirichlet BCs took 0.010402 s.
+[2] [time] Applying Dirichlet BCs took 0.0104086 s.
+[4] [time] Applying Dirichlet BCs took 0.0103774 s.
+[8] [time] Applying Dirichlet BCs took 0.0103791 s.
+[10] [time] Applying Dirichlet BCs took 0.0104055 s.
+[3] [time] Applying Dirichlet BCs took 0.0104771 s.
+[1] [time] Applying Dirichlet BCs took 0.0103662 s.
+[9] [time] Linear solver took 22.0491 s.
+[11] [time] Linear solver took 22.0491 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 195 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 22.0491 s.
+[8] [time] Linear solver took 22.0491 s.
+[10] [time] Linear solver took 22.0491 s.
+[5] [time] Linear solver took 22.0491 s.
+[6] [time] Linear solver took 22.0491 s.
+[4] [time] Linear solver took 22.0491 s.
+[7] [time] Linear solver took 22.0491 s.
+[2] [time] Linear solver took 22.0491 s.
+[3] [time] Linear solver took 22.0491 s.
+[1] [time] Linear solver took 22.0491 s.
+[4] Convergence criterion: |dx|=4.0595e-05, |x|=3.4654e+00, |dx|/|x|=1.1714e-05
+[10] Convergence criterion: |dx|=4.0595e-05, |x|=3.4654e+00, |dx|/|x|=1.1714e-05
+[6] Convergence criterion: |dx|=4.0595e-05, |x|=3.4654e+00, |dx|/|x|=1.1714e-05
+[0] Convergence criterion: |dx|=4.0595e-05, |x|=3.4654e+00, |dx|/|x|=1.1714e-05
+[8] Convergence criterion: |dx|=4.0595e-05, |x|=3.4654e+00, |dx|/|x|=1.1714e-05
+[5] Convergence criterion: |dx|=4.0595e-05, |x|=3.4654e+00, |dx|/|x|=1.1714e-05
+[5] [time] Iteration #2 took 22.7214 s.
+[3] Convergence criterion: |dx|=4.0595e-05, |x|=3.4654e+00, |dx|/|x|=1.1714e-05
+[3] [time] Iteration #2 took 22.7214 s.
+[7] Convergence criterion: |dx|=4.0595e-05, |x|=3.4654e+00, |dx|/|x|=1.1714e-05
+[7] [time] Iteration #2 took 22.7213 s.
+[9] Convergence criterion: |dx|=4.0595e-05, |x|=3.4654e+00, |dx|/|x|=1.1714e-05
+[9] [time] Iteration #2 took 22.7213 s.
+[11] Convergence criterion: |dx|=4.0595e-05, |x|=3.4654e+00, |dx|/|x|=1.1714e-05
+[11] [time] Iteration #2 took 22.7214 s.
+[2] Convergence criterion: |dx|=4.0595e-05, |x|=3.4654e+00, |dx|/|x|=1.1714e-05
+[2] [time] Iteration #2 took 22.7214 s.
+[1] Convergence criterion: |dx|=4.0595e-05, |x|=3.4654e+00, |dx|/|x|=1.1714e-05
+[1] [time] Iteration #2 took 22.7214 s.
+[4] [time] Iteration #2 took 22.7213 s.
+[10] [time] Iteration #2 took 22.7214 s.
+[6] [time] Iteration #2 took 22.7213 s.
+[0] [time] Iteration #2 took 22.7213 s.
+[8] [time] Iteration #2 took 22.7213 s.
+[9] Integral of crack: 2.00708e-06
+[11] Integral of crack: 2.00708e-06
+[8] Integral of crack: 2.00708e-06
+[6] Integral of crack: 2.00708e-06
+[10] Integral of crack: 2.00708e-06
+[0] Integral of crack: 2.00708e-06
+[4] Integral of crack: 2.00708e-06
+[5] Integral of crack: 2.00708e-06
+[2] Integral of crack: 2.00708e-06
+[7] Integral of crack: 2.00708e-06
+[1] Integral of crack: 2.00708e-06
+[3] Integral of crack: 2.00708e-06
+[11] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197408 Total energy: 0.140108 
+[11] [time] Solving process #0 took 57.557 s in time step #1  coupling iteration #1
+[9] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197408 Total energy: 0.140108 
+[9] [time] Solving process #0 took 57.5569 s in time step #1  coupling iteration #1
+[8] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197408 Total energy: 0.140108 
+[8] [time] Solving process #0 took 57.5569 s in time step #1  coupling iteration #1
+[10] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197408 Total energy: 0.140108 
+[10] [time] Solving process #0 took 57.557 s in time step #1  coupling iteration #1
+[2] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197408 Total energy: 0.140108 
+[2] [time] Solving process #0 took 57.5569 s in time step #1  coupling iteration #1
+[0] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197408 Total energy: 0.140108 
+[0] [time] Solving process #0 took 57.5569 s in time step #1  coupling iteration #1
+[4] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197408 Total energy: 0.140108 
+[4] [time] Solving process #0 took 57.5569 s in time step #1  coupling iteration #1
+[5] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197408 Total energy: 0.140108 
+[5] [time] Solving process #0 took 57.557 s in time step #1  coupling iteration #1
+[6] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197408 Total energy: 0.140108 
+[6] [time] Solving process #0 took 57.5569 s in time step #1  coupling iteration #1
+[1] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197408 Total energy: 0.140108 
+[1] [time] Solving process #0 took 57.557 s in time step #1  coupling iteration #1
+[3] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197408 Total energy: 0.140108 
+[3] [time] Solving process #0 took 57.5569 s in time step #1  coupling iteration #1
+[7] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197408 Total energy: 0.140108 
+[7] [time] Solving process #0 took 57.557 s in time step #1  coupling iteration #1
+[6] [time] Applying Dirichlet BCs took 3.33786e-05 s.
+[5] [time] Applying Dirichlet BCs took 2.95639e-05 s.
+[7] [time] Applying Dirichlet BCs took 4.76837e-05 s.
+[10] [time] Applying Dirichlet BCs took 3.33786e-05 s.
+[3] [time] Applying Dirichlet BCs took 4.62532e-05 s.
+[8] [time] Applying Dirichlet BCs took 3.26633e-05 s.
+[9] [time] Applying Dirichlet BCs took 3.71933e-05 s.
+[4] [time] Applying Dirichlet BCs took 3.33786e-05 s.
+[11] [time] Applying Dirichlet BCs took 3.26633e-05 s.
+[0] [time] Applying Dirichlet BCs took 2.45571e-05 s.
+[1] [time] Applying Dirichlet BCs took 3.12328e-05 s.
+[2] [time] Applying Dirichlet BCs took 3.8147e-05 s.
+[9] [time] Assembly took 0.513351 s.
+[11] [time] Assembly took 0.513336 s.
+[3] [time] Assembly took 0.513301 s.
+[5] [time] Assembly took 0.513316 s.
+[10] [time] Assembly took 0.513345 s.
+[8] [time] Assembly took 0.513324 s.
+[6] [time] Assembly took 0.513345 s.
+[2] [time] Assembly took 0.513339 s.
+[4] [time] Assembly took 0.513313 s.
+[0] [time] Assembly took 0.51333 s.
+[7] [time] Assembly took 0.513326 s.
+[1] [time] Assembly took 0.513326 s.
+[11] PETScSNES used 0 iterations.
+[11] PETSsSNES reason 2.
+[9] PETScSNES used 0 iterations.
+[9] PETSsSNES reason 2.
+[6] PETScSNES used 0 iterations.
+[6] PETSsSNES reason 2.
+[8] PETScSNES used 0 iterations.
+[8] PETSsSNES reason 2.
+[7] PETScSNES used 0 iterations.
+[7] PETSsSNES reason 2.
+[10] PETScSNES used 0 iterations.
+[10] PETSsSNES reason 2.
+[4] PETScSNES used 0 iterations.
+[4] PETSsSNES reason 2.
+[5] PETScSNES used 0 iterations.
+[5] PETSsSNES reason 2.
+[2] PETScSNES used 0 iterations.
+[2] PETSsSNES reason 2.
+  0 SNES Function norm 9.218614969196e-10 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[3] PETScSNES used 0 iterations.
+[3] PETSsSNES reason 2.
+[1] PETScSNES used 0 iterations.
+[1] PETSsSNES reason 2.
+[7] [time] Solving process #1 took 0.530357 s in time step #1  coupling iteration #1
+[3] [time] Solving process #1 took 0.530369 s in time step #1  coupling iteration #1
+[11] [time] Solving process #1 took 0.530358 s in time step #1  coupling iteration #1
+[6] [time] Solving process #1 took 0.530295 s in time step #1  coupling iteration #1
+[5] [time] Solving process #1 took 0.530375 s in time step #1  coupling iteration #1
+[2] [time] Solving process #1 took 0.530303 s in time step #1  coupling iteration #1
+[8] [time] Solving process #1 took 0.530307 s in time step #1  coupling iteration #1
+[4] [time] Solving process #1 took 0.530292 s in time step #1  coupling iteration #1
+[9] [time] Solving process #1 took 0.530372 s in time step #1  coupling iteration #1
+[1] [time] Solving process #1 took 0.530355 s in time step #1  coupling iteration #1
+[10] [time] Solving process #1 took 0.530312 s in time step #1  coupling iteration #1
+[0] [time] Solving process #1 took 0.530311 s in time step #1  coupling iteration #1
+[7] ------- Checking convergence criterion for coupled solution  -------
+[3] ------- Checking convergence criterion for coupled solution  -------
+[11] ------- Checking convergence criterion for coupled solution  -------
+[5] ------- Checking convergence criterion for coupled solution  -------
+[6] ------- Checking convergence criterion for coupled solution  -------
+[2] ------- Checking convergence criterion for coupled solution  -------
+[9] ------- Checking convergence criterion for coupled solution  -------
+[1] ------- Checking convergence criterion for coupled solution  -------
+[4] ------- Checking convergence criterion for coupled solution  -------
+[10] ------- Checking convergence criterion for coupled solution  -------
+[8] ------- Checking convergence criterion for coupled solution  -------
+[0] ------- Checking convergence criterion for coupled solution  -------
+[8] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[10] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[7] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[5] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[6] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[11] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[4] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[3] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[9] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[0] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[1] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[2] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[8] Fracture width computataion after time step for output
+[7] Fracture width computataion after time step for output
+[3] Fracture width computataion after time step for output
+[6] Fracture width computataion after time step for output
+[2] Fracture width computataion after time step for output
+[11] Fracture width computataion after time step for output
+[5] Fracture width computataion after time step for output
+[4] Fracture width computataion after time step for output
+[9] Fracture width computataion after time step for output
+[1] Fracture width computataion after time step for output
+[10] Fracture width computataion after time step for output
+[0] Fracture width computataion after time step for output
+[9] [time] Time step #1 took 170.726 s.
+[7] [time] Time step #1 took 170.73 s.
+[3] [time] Time step #1 took 170.736 s.
+[2] [time] Time step #1 took 170.723 s.
+[1] [time] Time step #1 took 170.733 s.
+[11] [time] Time step #1 took 170.752 s.
+[8] [time] Time step #1 took 170.743 s.
+[5] [time] Time step #1 took 170.819 s.
+[6] [time] Time step #1 took 170.75 s.
+[10] [time] Time step #1 took 170.754 s.
+[4] [time] Time step #1 took 170.75 s.
+[0] [time] Time step #1 took 170.741 s.
+[5] [time] Output of timestep 1 took 0.449506 s.
+[5] === Time stepping at step #2 and time 0.5 with step size 0.25
+[3] [time] Output of timestep 1 took 0.454977 s.
+[3] === Time stepping at step #2 and time 0.5 with step size 0.25
+[11] [time] Output of timestep 1 took 0.457081 s.
+[11] === Time stepping at step #2 and time 0.5 with step size 0.25
+[1] [time] Output of timestep 1 took 0.45727 s.
+[1] === Time stepping at step #2 and time 0.5 with step size 0.25
+[10] [time] Output of timestep 1 took 0.479393 s.
+[10] === Time stepping at step #2 and time 0.5 with step size 0.25
+[7] [time] Output of timestep 1 took 0.490223 s.
+[7] === Time stepping at step #2 and time 0.5 with step size 0.25
+[6] [time] Output of timestep 1 took 0.490219 s.
+[6] === Time stepping at step #2 and time 0.5 with step size 0.25
+[4] [time] Output of timestep 1 took 0.490204 s.
+[4] === Time stepping at step #2 and time 0.5 with step size 0.25
+[9] [time] Output of timestep 1 took 0.493377 s.
+[9] === Time stepping at step #2 and time 0.5 with step size 0.25
+[8] [time] Output of timestep 1 took 0.493395 s.
+[8] === Time stepping at step #2 and time 0.5 with step size 0.25
+[2] [time] Output of timestep 1 took 0.495771 s.
+[2] === Time stepping at step #2 and time 0.5 with step size 0.25
+[0] [time] Output of timestep 1 took 0.496324 s.
+[0] === Time stepping at step #2 and time 0.5 with step size 0.25
+[11] [time] Assembly took 0.659516 s.
+[9] [time] Assembly took 0.659549 s.
+[3] [time] Assembly took 0.659495 s.
+[6] [time] Assembly took 0.659525 s.
+[10] [time] Assembly took 0.659541 s.
+[8] [time] Assembly took 0.659543 s.
+[2] [time] Assembly took 0.659538 s.
+[4] [time] Assembly took 0.659527 s.
+[7] [time] Assembly took 0.659501 s.
+[5] [time] Assembly took 0.659491 s.
+[0] [time] Assembly took 0.659529 s.
+[1] [time] Assembly took 0.659522 s.
+[9] [time] Applying Dirichlet BCs took 0.0102956 s.
+[11] [time] Applying Dirichlet BCs took 0.0103035 s.
+[5] [time] Applying Dirichlet BCs took 0.0103462 s.
+[8] [time] Applying Dirichlet BCs took 0.010293 s.
+[10] [time] Applying Dirichlet BCs took 0.0102956 s.
+[3] [time] Applying Dirichlet BCs took 0.010349 s.
+[4] [time] Applying Dirichlet BCs took 0.010318 s.
+[1] [time] Applying Dirichlet BCs took 0.0103056 s.
+[2] [time] Applying Dirichlet BCs took 0.0102994 s.
+[7] [time] Applying Dirichlet BCs took 0.010349 s.
+[0] [time] Applying Dirichlet BCs took 0.0102985 s.
+[6] [time] Applying Dirichlet BCs took 0.0106976 s.
+[11] [time] Linear solver took 23.9052 s.
+[9] [time] Linear solver took 23.9052 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 212 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 23.9052 s.
+[8] [time] Linear solver took 23.9052 s.
+[6] [time] Linear solver took 23.9052 s.
+[10] [time] Linear solver took 23.9052 s.
+[4] [time] Linear solver took 23.9052 s.
+[2] [time] Linear solver took 23.9052 s.
+[5] [time] Linear solver took 23.9052 s.
+[7] [time] Linear solver took 23.9052 s.
+[3] [time] Linear solver took 23.9052 s.
+[1] [time] Linear solver took 23.9052 s.
+[10] Convergence criterion: |dx|=1.2577e-04, |x|=3.4654e+00, |dx|/|x|=3.6293e-05
+[6] Convergence criterion: |dx|=1.2577e-04, |x|=3.4654e+00, |dx|/|x|=3.6293e-05
+[8] Convergence criterion: |dx|=1.2577e-04, |x|=3.4654e+00, |dx|/|x|=3.6293e-05
+[4] Convergence criterion: |dx|=1.2577e-04, |x|=3.4654e+00, |dx|/|x|=3.6293e-05
+[0] Convergence criterion: |dx|=1.2577e-04, |x|=3.4654e+00, |dx|/|x|=3.6293e-05
+[7] Convergence criterion: |dx|=1.2577e-04, |x|=3.4654e+00, |dx|/|x|=3.6293e-05
+[7] [time] Iteration #1 took 24.5764 s.
+[11] Convergence criterion: |dx|=1.2577e-04, |x|=3.4654e+00, |dx|/|x|=3.6293e-05
+[11] [time] Iteration #1 took 24.5764 s.
+[9] Convergence criterion: |dx|=1.2577e-04, |x|=3.4654e+00, |dx|/|x|=3.6293e-05
+[9] [time] Iteration #1 took 24.5764 s.
+[5] Convergence criterion: |dx|=1.2577e-04, |x|=3.4654e+00, |dx|/|x|=3.6293e-05
+[5] [time] Iteration #1 took 24.5764 s.
+[3] Convergence criterion: |dx|=1.2577e-04, |x|=3.4654e+00, |dx|/|x|=3.6293e-05
+[3] [time] Iteration #1 took 24.5764 s.
+[1] Convergence criterion: |dx|=1.2577e-04, |x|=3.4654e+00, |dx|/|x|=3.6293e-05
+[1] [time] Iteration #1 took 24.5764 s.
+[2] Convergence criterion: |dx|=1.2577e-04, |x|=3.4654e+00, |dx|/|x|=3.6293e-05
+[2] [time] Iteration #1 took 24.5764 s.
+[10] [time] Iteration #1 took 24.5764 s.
+[6] [time] Iteration #1 took 24.5768 s.
+[8] [time] Iteration #1 took 24.5764 s.
+[4] [time] Iteration #1 took 24.5764 s.
+[0] [time] Iteration #1 took 24.5764 s.
+[9] Integral of crack: 2.00298e-06
+[11] Integral of crack: 2.00298e-06
+[8] Integral of crack: 2.00298e-06
+[6] Integral of crack: 2.00298e-06
+[10] Integral of crack: 2.00298e-06
+[4] Integral of crack: 2.00298e-06
+[5] Integral of crack: 2.00298e-06
+[0] Integral of crack: 2.00298e-06
+[2] Integral of crack: 2.00298e-06
+[7] Integral of crack: 2.00298e-06
+[3] Integral of crack: 2.00298e-06
+[1] Integral of crack: 2.00298e-06
+[11] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197421 Total energy: 0.140108 
+[11] [time] Solving process #0 took 25.0503 s in time step #2  coupling iteration #0
+[9] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197421 Total energy: 0.140108 
+[9] [time] Solving process #0 took 25.0497 s in time step #2  coupling iteration #0
+[5] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197421 Total energy: 0.140108 
+[5] [time] Solving process #0 took 25.0505 s in time step #2  coupling iteration #0
+[8] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197421 Total energy: 0.140108 
+[8] [time] Solving process #0 took 25.0503 s in time step #2  coupling iteration #0
+[10] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197421 Total energy: 0.140108 
+[10] [time] Solving process #0 took 25.0501 s in time step #2  coupling iteration #0
+[6] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197421 Total energy: 0.140108 
+[6] [time] Solving process #0 took 25.0506 s in time step #2  coupling iteration #0
+[7] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197421 Total energy: 0.140108 
+[7] [time] Solving process #0 took 25.0498 s in time step #2  coupling iteration #0
+[2] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197421 Total energy: 0.140108 
+[2] [time] Solving process #0 took 25.0493 s in time step #2  coupling iteration #0
+[4] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197421 Total energy: 0.140108 
+[4] [time] Solving process #0 took 25.0499 s in time step #2  coupling iteration #0
+[0] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197421 Total energy: 0.140108 
+[0] [time] Solving process #0 took 25.0499 s in time step #2  coupling iteration #0
+[3] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197421 Total energy: 0.140108 
+[3] [time] Solving process #0 took 25.0501 s in time step #2  coupling iteration #0
+[1] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197421 Total energy: 0.140108 
+[1] [time] Solving process #0 took 25.0501 s in time step #2  coupling iteration #0
+[10] [time] Applying Dirichlet BCs took 2.90871e-05 s.
+[4] [time] Applying Dirichlet BCs took 3.52859e-05 s.
+[5] [time] Applying Dirichlet BCs took 2.5034e-05 s.
+[6] [time] Applying Dirichlet BCs took 3.93391e-05 s.
+[7] [time] Applying Dirichlet BCs took 4.79221e-05 s.
+[0] [time] Applying Dirichlet BCs took 2.26498e-05 s.
+[8] [time] Applying Dirichlet BCs took 3.55244e-05 s.
+[2] [time] Applying Dirichlet BCs took 3.55244e-05 s.
+[3] [time] Applying Dirichlet BCs took 4.45843e-05 s.
+[11] [time] Applying Dirichlet BCs took 3.57628e-05 s.
+[9] [time] Applying Dirichlet BCs took 2.83718e-05 s.
+[1] [time] Applying Dirichlet BCs took 2.7895e-05 s.
+[11] [time] Assembly took 0.511963 s.
+[9] [time] Assembly took 0.511954 s.
+[7] [time] Assembly took 0.511971 s.
+[6] [time] Assembly took 0.511956 s.
+[10] [time] Assembly took 0.511955 s.
+[8] [time] Assembly took 0.511975 s.
+[5] [time] Assembly took 0.511959 s.
+[4] [time] Assembly took 0.511976 s.
+[2] [time] Assembly took 0.511958 s.
+[0] [time] Assembly took 0.511966 s.
+[3] [time] Assembly took 0.511953 s.
+[1] [time] Assembly took 0.511943 s.
+[11] PETScSNES used 0 iterations.
+[11] PETSsSNES reason 2.
+[9] PETScSNES used 0 iterations.
+[9] PETSsSNES reason 2.
+[3] PETScSNES used 0 iterations.
+[3] PETSsSNES reason 2.
+[10] PETScSNES used 0 iterations.
+[10] PETSsSNES reason 2.
+[8] PETScSNES used 0 iterations.
+[8] PETSsSNES reason 2.
+[6] PETScSNES used 0 iterations.
+[6] PETSsSNES reason 2.
+[4] PETScSNES used 0 iterations.
+[4] PETSsSNES reason 2.
+[5] PETScSNES used 0 iterations.
+[5] PETSsSNES reason 2.
+[2] PETScSNES used 0 iterations.
+[2] PETSsSNES reason 2.
+[7] PETScSNES used 0 iterations.
+[7] PETSsSNES reason 2.
+  0 SNES Function norm 9.193094289587e-10 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[1] PETScSNES used 0 iterations.
+[1] PETSsSNES reason 2.
+[7] [time] Solving process #1 took 0.528914 s in time step #2  coupling iteration #0
+[3] [time] Solving process #1 took 0.528915 s in time step #2  coupling iteration #0
+[4] [time] Solving process #1 took 0.528913 s in time step #2  coupling iteration #0
+[5] [time] Solving process #1 took 0.528926 s in time step #2  coupling iteration #0
+[1] [time] Solving process #1 took 0.528933 s in time step #2  coupling iteration #0
+[6] [time] Solving process #1 took 0.528907 s in time step #2  coupling iteration #0
+[9] [time] Solving process #1 took 0.528921 s in time step #2  coupling iteration #0
+[11] [time] Solving process #1 took 0.528923 s in time step #2  coupling iteration #0
+[2] [time] Solving process #1 took 0.528911 s in time step #2  coupling iteration #0
+[8] [time] Solving process #1 took 0.528914 s in time step #2  coupling iteration #0
+[0] [time] Solving process #1 took 0.528911 s in time step #2  coupling iteration #0
+[10] [time] Solving process #1 took 0.528922 s in time step #2  coupling iteration #0
+[9] [time] Assembly took 0.660097 s.
+[11] [time] Assembly took 0.660114 s.
+[3] [time] Assembly took 0.660075 s.
+[5] [time] Assembly took 0.660099 s.
+[7] [time] Assembly took 0.660099 s.
+[10] [time] Assembly took 0.660129 s.
+[6] [time] Assembly took 0.660124 s.
+[0] [time] Assembly took 0.660104 s.
+[2] [time] Assembly took 0.660112 s.
+[1] [time] Assembly took 0.660098 s.
+[8] [time] Assembly took 0.660172 s.
+[4] [time] Assembly took 0.660169 s.
+[11] [time] Applying Dirichlet BCs took 0.0102365 s.
+[9] [time] Applying Dirichlet BCs took 0.0102668 s.
+[5] [time] Applying Dirichlet BCs took 0.0102668 s.
+[10] [time] Applying Dirichlet BCs took 0.0102293 s.
+[8] [time] Applying Dirichlet BCs took 0.0101883 s.
+[4] [time] Applying Dirichlet BCs took 0.010195 s.
+[7] [time] Applying Dirichlet BCs took 0.0102813 s.
+[6] [time] Applying Dirichlet BCs took 0.0102501 s.
+[2] [time] Applying Dirichlet BCs took 0.0102513 s.
+[1] [time] Applying Dirichlet BCs took 0.0102568 s.
+[3] [time] Applying Dirichlet BCs took 0.0103021 s.
+[0] [time] Applying Dirichlet BCs took 0.0102205 s.
+[9] [time] Linear solver took 23.7717 s.
+[11] [time] Linear solver took 23.7717 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 210 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 23.7717 s.
+[8] [time] Linear solver took 23.7717 s.
+[6] [time] Linear solver took 23.7717 s.
+[10] [time] Linear solver took 23.7717 s.
+[5] [time] Linear solver took 23.7717 s.
+[4] [time] Linear solver took 23.7717 s.
+[7] [time] Linear solver took 23.7717 s.
+[2] [time] Linear solver took 23.7717 s.
+[3] [time] Linear solver took 23.7717 s.
+[1] [time] Linear solver took 23.7717 s.
+[10] Convergence criterion: |dx|=1.9343e-04, |x|=3.4654e+00, |dx|/|x|=5.5818e-05
+[6] Convergence criterion: |dx|=1.9343e-04, |x|=3.4654e+00, |dx|/|x|=5.5818e-05
+[4] Convergence criterion: |dx|=1.9343e-04, |x|=3.4654e+00, |dx|/|x|=5.5818e-05
+[11] Convergence criterion: |dx|=1.9343e-04, |x|=3.4654e+00, |dx|/|x|=5.5818e-05
+[11] [time] Iteration #1 took 24.4434 s.
+[9] Convergence criterion: |dx|=1.9343e-04, |x|=3.4654e+00, |dx|/|x|=5.5818e-05
+[9] [time] Iteration #1 took 24.4434 s.
+[5] Convergence criterion: |dx|=1.9343e-04, |x|=3.4654e+00, |dx|/|x|=5.5818e-05
+[5] [time] Iteration #1 took 24.4434 s.
+[7] Convergence criterion: |dx|=1.9343e-04, |x|=3.4654e+00, |dx|/|x|=5.5818e-05
+[7] [time] Iteration #1 took 24.4434 s.
+[0] Convergence criterion: |dx|=1.9343e-04, |x|=3.4654e+00, |dx|/|x|=5.5818e-05
+[8] Convergence criterion: |dx|=1.9343e-04, |x|=3.4654e+00, |dx|/|x|=5.5818e-05
+[3] Convergence criterion: |dx|=1.9343e-04, |x|=3.4654e+00, |dx|/|x|=5.5818e-05
+[3] [time] Iteration #1 took 24.4434 s.
+[1] Convergence criterion: |dx|=1.9343e-04, |x|=3.4654e+00, |dx|/|x|=5.5818e-05
+[1] [time] Iteration #1 took 24.4434 s.
+[2] Convergence criterion: |dx|=1.9343e-04, |x|=3.4654e+00, |dx|/|x|=5.5818e-05
+[2] [time] Iteration #1 took 24.4434 s.
+[10] [time] Iteration #1 took 24.4434 s.
+[6] [time] Iteration #1 took 24.4434 s.
+[4] [time] Iteration #1 took 24.4434 s.
+[0] [time] Iteration #1 took 24.4434 s.
+[8] [time] Iteration #1 took 24.4434 s.
+[9] Integral of crack: 1.99934e-06
+[11] Integral of crack: 1.99934e-06
+[8] Integral of crack: 1.99934e-06
+[10] Integral of crack: 1.99934e-06
+[0] Integral of crack: 1.99934e-06
+[6] Integral of crack: 1.99934e-06
+[4] Integral of crack: 1.99934e-06
+[2] Integral of crack: 1.99934e-06
+[5] Integral of crack: 1.99934e-06
+[7] Integral of crack: 1.99934e-06
+[3] Integral of crack: 1.99934e-06
+[1] Integral of crack: 1.99934e-06
+[9] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.00019748 Total energy: 0.140108 
+[9] [time] Solving process #0 took 24.9165 s in time step #2  coupling iteration #1
+[11] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.00019748 Total energy: 0.140108 
+[11] [time] Solving process #0 took 24.9165 s in time step #2  coupling iteration #1
+[10] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.00019748 Total energy: 0.140108 
+[10] [time] Solving process #0 took 24.9165 s in time step #2  coupling iteration #1
+[8] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.00019748 Total energy: 0.140108 
+[8] [time] Solving process #0 took 24.9165 s in time step #2  coupling iteration #1
+[6] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.00019748 Total energy: 0.140108 
+[6] [time] Solving process #0 took 24.9165 s in time step #2  coupling iteration #1
+[2] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.00019748 Total energy: 0.140108 
+[2] [time] Solving process #0 took 24.9165 s in time step #2  coupling iteration #1
+[4] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.00019748 Total energy: 0.140108 
+[4] [time] Solving process #0 took 24.9165 s in time step #2  coupling iteration #1
+[7] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.00019748 Total energy: 0.140108 
+[7] [time] Solving process #0 took 24.9165 s in time step #2  coupling iteration #1
+[0] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.00019748 Total energy: 0.140108 
+[0] [time] Solving process #0 took 24.9165 s in time step #2  coupling iteration #1
+[5] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.00019748 Total energy: 0.140108 
+[5] [time] Solving process #0 took 24.9165 s in time step #2  coupling iteration #1
+[1] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.00019748 Total energy: 0.140108 
+[1] [time] Solving process #0 took 24.9165 s in time step #2  coupling iteration #1
+[3] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.00019748 Total energy: 0.140108 
+[3] [time] Solving process #0 took 24.9165 s in time step #2  coupling iteration #1
+[3] [time] Applying Dirichlet BCs took 4.86374e-05 s.
+[7] [time] Applying Dirichlet BCs took 4.79221e-05 s.
+[11] [time] Applying Dirichlet BCs took 3.8147e-05 s.
+[5] [time] Applying Dirichlet BCs took 3.19481e-05 s.
+[9] [time] Applying Dirichlet BCs took 3.60012e-05 s.
+[0] [time] Applying Dirichlet BCs took 2.57492e-05 s.
+[8] [time] Applying Dirichlet BCs took 3.14713e-05 s.
+[1] [time] Applying Dirichlet BCs took 3.21865e-05 s.
+[6] [time] Applying Dirichlet BCs took 3.91006e-05 s.
+[10] [time] Applying Dirichlet BCs took 3.52859e-05 s.
+[4] [time] Applying Dirichlet BCs took 3.45707e-05 s.
+[2] [time] Applying Dirichlet BCs took 4.07696e-05 s.
+[11] [time] Assembly took 0.513454 s.
+[9] [time] Assembly took 0.513458 s.
+[6] [time] Assembly took 0.513438 s.
+[10] [time] Assembly took 0.513434 s.
+[4] [time] Assembly took 0.513441 s.
+[8] [time] Assembly took 0.513458 s.
+[5] [time] Assembly took 0.513446 s.
+[2] [time] Assembly took 0.513472 s.
+[7] [time] Assembly took 0.513458 s.
+[0] [time] Assembly took 0.51347 s.
+[3] [time] Assembly took 0.513447 s.
+[1] [time] Assembly took 0.513469 s.
+[11] PETScSNES used 0 iterations.
+[11] PETSsSNES reason 2.
+[9] PETScSNES used 0 iterations.
+[9] PETSsSNES reason 2.
+[3] PETScSNES used 0 iterations.
+[3] PETSsSNES reason 2.
+[8] PETScSNES used 0 iterations.
+[8] PETSsSNES reason 2.
+[6] PETScSNES used 0 iterations.
+[6] PETSsSNES reason 2.
+[10] PETScSNES used 0 iterations.
+[10] PETSsSNES reason 2.
+[2] PETScSNES used 0 iterations.
+[2] PETSsSNES reason 2.
+[4] PETScSNES used 0 iterations.
+[4] PETSsSNES reason 2.
+[5] PETScSNES used 0 iterations.
+[5] PETSsSNES reason 2.
+[7] PETScSNES used 0 iterations.
+[7] PETSsSNES reason 2.
+  0 SNES Function norm 9.218212456637e-10 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[1] PETScSNES used 0 iterations.
+[1] PETSsSNES reason 2.
+[3] [time] Solving process #1 took 0.53051 s in time step #2  coupling iteration #1
+[7] [time] Solving process #1 took 0.530505 s in time step #2  coupling iteration #1
+[6] [time] Solving process #1 took 0.530452 s in time step #2  coupling iteration #1
+[2] [time] Solving process #1 took 0.530456 s in time step #2  coupling iteration #1
+[11] [time] Solving process #1 took 0.530497 s in time step #2  coupling iteration #1
+[5] [time] Solving process #1 took 0.530516 s in time step #2  coupling iteration #1
+[1] [time] Solving process #1 took 0.530499 s in time step #2  coupling iteration #1
+[9] [time] Solving process #1 took 0.530516 s in time step #2  coupling iteration #1
+[4] [time] Solving process #1 took 0.530444 s in time step #2  coupling iteration #1
+[10] [time] Solving process #1 took 0.530468 s in time step #2  coupling iteration #1
+[0] [time] Solving process #1 took 0.53046 s in time step #2  coupling iteration #1
+[8] [time] Solving process #1 took 0.530469 s in time step #2  coupling iteration #1
+[7] ------- Checking convergence criterion for coupled solution  -------
+[3] ------- Checking convergence criterion for coupled solution  -------
+[1] ------- Checking convergence criterion for coupled solution  -------
+[11] ------- Checking convergence criterion for coupled solution  -------
+[2] ------- Checking convergence criterion for coupled solution  -------
+[9] ------- Checking convergence criterion for coupled solution  -------
+[5] ------- Checking convergence criterion for coupled solution  -------
+[4] ------- Checking convergence criterion for coupled solution  -------
+[6] ------- Checking convergence criterion for coupled solution  -------
+[10] ------- Checking convergence criterion for coupled solution  -------
+[0] ------- Checking convergence criterion for coupled solution  -------
+[8] ------- Checking convergence criterion for coupled solution  -------
+[6] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[8] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[7] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[10] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[5] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[9] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[0] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[4] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[11] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[3] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[1] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[2] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[8] Fracture width computataion after time step for output
+[7] Fracture width computataion after time step for output
+[6] Fracture width computataion after time step for output
+[3] Fracture width computataion after time step for output
+[2] Fracture width computataion after time step for output
+[11] Fracture width computataion after time step for output
+[5] Fracture width computataion after time step for output
+[4] Fracture width computataion after time step for output
+[1] Fracture width computataion after time step for output
+[10] Fracture width computataion after time step for output
+[9] Fracture width computataion after time step for output
+[0] Fracture width computataion after time step for output
+[7] [time] Time step #2 took 51.1116 s.
+[9] [time] Time step #2 took 51.1089 s.
+[3] [time] Time step #2 took 51.1473 s.
+[2] [time] Time step #2 took 51.1065 s.
+[1] [time] Time step #2 took 51.145 s.
+[11] [time] Time step #2 took 51.1625 s.
+[8] [time] Time step #2 took 51.1262 s.
+[6] [time] Time step #2 took 51.1311 s.
+[5] [time] Time step #2 took 51.1717 s.
+[0] [time] Time step #2 took 51.1249 s.
+[10] [time] Time step #2 took 51.1419 s.
+[4] [time] Time step #2 took 51.1311 s.
+[5] [time] Output of timestep 2 took 0.451099 s.
+[5] === Time stepping at step #3 and time 0.75 with step size 0.25
+[3] [time] Output of timestep 2 took 0.456415 s.
+[3] === Time stepping at step #3 and time 0.75 with step size 0.25
+[11] [time] Output of timestep 2 took 0.456921 s.
+[11] === Time stepping at step #3 and time 0.75 with step size 0.25
+[10] [time] Output of timestep 2 took 0.456916 s.
+[10] === Time stepping at step #3 and time 0.75 with step size 0.25
+[1] [time] Output of timestep 2 took 0.459711 s.
+[1] === Time stepping at step #3 and time 0.75 with step size 0.25
+[7] [time] Output of timestep 2 took 0.463713 s.
+[7] === Time stepping at step #3 and time 0.75 with step size 0.25
+[6] [time] Output of timestep 2 took 0.463701 s.
+[6] === Time stepping at step #3 and time 0.75 with step size 0.25
+[4] [time] Output of timestep 2 took 0.463686 s.
+[4] === Time stepping at step #3 and time 0.75 with step size 0.25
+[9] [time] Output of timestep 2 took 0.46615 s.
+[9] === Time stepping at step #3 and time 0.75 with step size 0.25
+[8] [time] Output of timestep 2 took 0.466177 s.
+[8] === Time stepping at step #3 and time 0.75 with step size 0.25
+[2] [time] Output of timestep 2 took 0.470611 s.
+[2] === Time stepping at step #3 and time 0.75 with step size 0.25
+[0] [time] Output of timestep 2 took 0.47115 s.
+[0] === Time stepping at step #3 and time 0.75 with step size 0.25
+[11] [time] Assembly took 0.660573 s.
+[3] [time] Assembly took 0.660516 s.
+[9] [time] Assembly took 0.660608 s.
+[5] [time] Assembly took 0.66052 s.
+[7] [time] Assembly took 0.660553 s.
+[1] [time] Assembly took 0.660566 s.
+[8] [time] Assembly took 0.660612 s.
+[10] [time] Assembly took 0.660583 s.
+[4] [time] Assembly took 0.660605 s.
+[2] [time] Assembly took 0.660608 s.
+[0] [time] Assembly took 0.66059 s.
+[6] [time] Assembly took 0.660639 s.
+[11] [time] Applying Dirichlet BCs took 0.0104051 s.
+[9] [time] Applying Dirichlet BCs took 0.0103855 s.
+[6] [time] Applying Dirichlet BCs took 0.010813 s.
+[8] [time] Applying Dirichlet BCs took 0.0103731 s.
+[7] [time] Applying Dirichlet BCs took 0.0104475 s.
+[2] [time] Applying Dirichlet BCs took 0.0103688 s.
+[4] [time] Applying Dirichlet BCs took 0.0103858 s.
+[1] [time] Applying Dirichlet BCs took 0.0104072 s.
+[3] [time] Applying Dirichlet BCs took 0.0104651 s.
+[10] [time] Applying Dirichlet BCs took 0.0103834 s.
+[0] [time] Applying Dirichlet BCs took 0.0103767 s.
+[5] [time] Applying Dirichlet BCs took 0.0104694 s.
+[9] [time] Linear solver took 21.8947 s.
+[11] [time] Linear solver took 21.8947 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 193 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 21.8948 s.
+[6] [time] Linear solver took 21.8948 s.
+[8] [time] Linear solver took 21.8947 s.
+[10] [time] Linear solver took 21.8947 s.
+[5] [time] Linear solver took 21.8947 s.
+[4] [time] Linear solver took 21.8947 s.
+[7] [time] Linear solver took 21.8947 s.
+[2] [time] Linear solver took 21.8947 s.
+[3] [time] Linear solver took 21.8947 s.
+[1] [time] Linear solver took 21.8947 s.
+[2] Convergence criterion: |dx|=3.2875e-04, |x|=3.4654e+00, |dx|/|x|=9.4865e-05
+[10] Convergence criterion: |dx|=3.2875e-04, |x|=3.4654e+00, |dx|/|x|=9.4865e-05
+[6] Convergence criterion: |dx|=3.2875e-04, |x|=3.4654e+00, |dx|/|x|=9.4865e-05
+[4] Convergence criterion: |dx|=3.2875e-04, |x|=3.4654e+00, |dx|/|x|=9.4865e-05
+[7] Convergence criterion: |dx|=3.2875e-04, |x|=3.4654e+00, |dx|/|x|=9.4865e-05
+[7] [time] Iteration #1 took 22.5671 s.
+[11] Convergence criterion: |dx|=3.2875e-04, |x|=3.4654e+00, |dx|/|x|=9.4865e-05
+[11] [time] Iteration #1 took 22.5671 s.
+[9] Convergence criterion: |dx|=3.2875e-04, |x|=3.4654e+00, |dx|/|x|=9.4865e-05
+[9] [time] Iteration #1 took 22.5671 s.
+[5] Convergence criterion: |dx|=3.2875e-04, |x|=3.4654e+00, |dx|/|x|=9.4865e-05
+[5] [time] Iteration #1 took 22.5671 s.
+[0] Convergence criterion: |dx|=3.2875e-04, |x|=3.4654e+00, |dx|/|x|=9.4865e-05
+[3] Convergence criterion: |dx|=3.2875e-04, |x|=3.4654e+00, |dx|/|x|=9.4865e-05
+[3] [time] Iteration #1 took 22.5671 s.
+[8] Convergence criterion: |dx|=3.2875e-04, |x|=3.4654e+00, |dx|/|x|=9.4865e-05
+[8] [time] Iteration #1 took 22.5671 s.
+[1] Convergence criterion: |dx|=3.2875e-04, |x|=3.4654e+00, |dx|/|x|=9.4865e-05
+[1] [time] Iteration #1 took 22.5671 s.
+[2] [time] Iteration #1 took 22.5671 s.
+[10] [time] Iteration #1 took 22.5671 s.
+[6] [time] Iteration #1 took 22.5675 s.
+[4] [time] Iteration #1 took 22.5671 s.
+[0] [time] Iteration #1 took 22.5671 s.
+[11] Integral of crack: 1.99847e-06
+[9] Integral of crack: 1.99847e-06
+[6] Integral of crack: 1.99847e-06
+[8] Integral of crack: 1.99847e-06
+[10] Integral of crack: 1.99847e-06
+[4] Integral of crack: 1.99847e-06
+[5] Integral of crack: 1.99847e-06
+[0] Integral of crack: 1.99847e-06
+[2] Integral of crack: 1.99847e-06
+[7] Integral of crack: 1.99847e-06
+[3] Integral of crack: 1.99847e-06
+[1] Integral of crack: 1.99847e-06
+[11] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197694 Total energy: 0.140108 
+[11] [time] Solving process #0 took 23.0407 s in time step #3  coupling iteration #0
+[9] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197694 Total energy: 0.140108 
+[9] [time] Solving process #0 took 23.0401 s in time step #3  coupling iteration #0
+[5] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197694 Total energy: 0.140108 
+[5] [time] Solving process #0 took 23.0408 s in time step #3  coupling iteration #0
+[7] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197694 Total energy: 0.140108 
+[7] [time] Solving process #0 took 23.0402 s in time step #3  coupling iteration #0
+[3] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197694 Total energy: 0.140108 
+[3] [time] Solving process #0 took 23.0405 s in time step #3  coupling iteration #0
+[8] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197694 Total energy: 0.140108 
+[8] [time] Solving process #0 took 23.0407 s in time step #3  coupling iteration #0
+[10] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197694 Total energy: 0.140108 
+[10] [time] Solving process #0 took 23.0405 s in time step #3  coupling iteration #0
+[6] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197694 Total energy: 0.140108 
+[6] [time] Solving process #0 took 23.041 s in time step #3  coupling iteration #0
+[0] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197694 Total energy: 0.140108 
+[0] [time] Solving process #0 took 23.0404 s in time step #3  coupling iteration #0
+[4] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197694 Total energy: 0.140108 
+[4] [time] Solving process #0 took 23.0403 s in time step #3  coupling iteration #0
+[2] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197694 Total energy: 0.140108 
+[2] [time] Solving process #0 took 23.0396 s in time step #3  coupling iteration #0
+[1] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000197694 Total energy: 0.140108 
+[1] [time] Solving process #0 took 23.0405 s in time step #3  coupling iteration #0
+[6] [time] Applying Dirichlet BCs took 2.98023e-05 s.
+[2] [time] Applying Dirichlet BCs took 3.09944e-05 s.
+[3] [time] Applying Dirichlet BCs took 3.45707e-05 s.
+[5] [time] Applying Dirichlet BCs took 2.88486e-05 s.
+[0] [time] Applying Dirichlet BCs took 2.26498e-05 s.
+[4] [time] Applying Dirichlet BCs took 3.3617e-05 s.
+[10] [time] Applying Dirichlet BCs took 2.93255e-05 s.
+[7] [time] Applying Dirichlet BCs took 3.91006e-05 s.
+[9] [time] Applying Dirichlet BCs took 3.05176e-05 s.
+[11] [time] Applying Dirichlet BCs took 2.74181e-05 s.
+[8] [time] Applying Dirichlet BCs took 2.88486e-05 s.
+[1] [time] Applying Dirichlet BCs took 2.47955e-05 s.
+[9] [time] Assembly took 0.511346 s.
+[11] [time] Assembly took 0.511351 s.
+[3] [time] Assembly took 0.511326 s.
+[4] [time] Assembly took 0.511335 s.
+[10] [time] Assembly took 0.511359 s.
+[6] [time] Assembly took 0.51134 s.
+[8] [time] Assembly took 0.511362 s.
+[0] [time] Assembly took 0.51135 s.
+[7] [time] Assembly took 0.511342 s.
+[5] [time] Assembly took 0.511353 s.
+[2] [time] Assembly took 0.511353 s.
+[1] [time] Assembly took 0.511336 s.
+[11] PETScSNES used 0 iterations.
+[11] PETSsSNES reason 2.
+[9] PETScSNES used 0 iterations.
+[9] PETSsSNES reason 2.
+[8] PETScSNES used 0 iterations.
+[8] PETSsSNES reason 2.
+[10] PETScSNES used 0 iterations.
+[10] PETSsSNES reason 2.
+[6] PETScSNES used 0 iterations.
+[6] PETSsSNES reason 2.
+  0 SNES Function norm 9.225211896159e-10 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[2] PETScSNES used 0 iterations.
+[2] PETSsSNES reason 2.
+[7] PETScSNES used 0 iterations.
+[7] PETSsSNES reason 2.
+[4] PETScSNES used 0 iterations.
+[4] PETSsSNES reason 2.
+[5] PETScSNES used 0 iterations.
+[5] PETSsSNES reason 2.
+[3] PETScSNES used 0 iterations.
+[3] PETSsSNES reason 2.
+[1] PETScSNES used 0 iterations.
+[1] PETSsSNES reason 2.
+[7] [time] Solving process #1 took 0.528323 s in time step #3  coupling iteration #0
+[3] [time] Solving process #1 took 0.528322 s in time step #3  coupling iteration #0
+[11] [time] Solving process #1 took 0.528335 s in time step #3  coupling iteration #0
+[5] [time] Solving process #1 took 0.528346 s in time step #3  coupling iteration #0
+[6] [time] Solving process #1 took 0.52832 s in time step #3  coupling iteration #0
+[2] [time] Solving process #1 took 0.528324 s in time step #3  coupling iteration #0
+[9] [time] Solving process #1 took 0.528331 s in time step #3  coupling iteration #0
+[8] [time] Solving process #1 took 0.52834 s in time step #3  coupling iteration #0
+[1] [time] Solving process #1 took 0.528329 s in time step #3  coupling iteration #0
+[4] [time] Solving process #1 took 0.528334 s in time step #3  coupling iteration #0
+[10] [time] Solving process #1 took 0.528332 s in time step #3  coupling iteration #0
+[0] [time] Solving process #1 took 0.528355 s in time step #3  coupling iteration #0
+[11] [time] Assembly took 0.659925 s.
+[9] [time] Assembly took 0.659943 s.
+[3] [time] Assembly took 0.659885 s.
+[6] [time] Assembly took 0.659921 s.
+[5] [time] Assembly took 0.659911 s.
+[7] [time] Assembly took 0.659899 s.
+[0] [time] Assembly took 0.659928 s.
+[2] [time] Assembly took 0.659926 s.
+[1] [time] Assembly took 0.659913 s.
+[8] [time] Assembly took 0.659983 s.
+[10] [time] Assembly took 0.659949 s.
+[4] [time] Assembly took 0.659948 s.
+[11] [time] Applying Dirichlet BCs took 0.010164 s.
+[9] [time] Applying Dirichlet BCs took 0.0101385 s.
+[8] [time] Applying Dirichlet BCs took 0.0101001 s.
+[6] [time] Applying Dirichlet BCs took 0.0101626 s.
+[5] [time] Applying Dirichlet BCs took 0.010174 s.
+[7] [time] Applying Dirichlet BCs took 0.0102139 s.
+[4] [time] Applying Dirichlet BCs took 0.0101299 s.
+[3] [time] Applying Dirichlet BCs took 0.0102296 s.
+[1] [time] Applying Dirichlet BCs took 0.0101583 s.
+[10] [time] Applying Dirichlet BCs took 0.0101082 s.
+[2] [time] Applying Dirichlet BCs took 0.0101333 s.
+[0] [time] Applying Dirichlet BCs took 0.0101123 s.
+[11] [time] Linear solver took 37.6015 s.
+[9] [time] Linear solver took 37.6015 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 337 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 37.6015 s.
+[2] [time] Linear solver took 37.6015 s.
+[1] [time] Linear solver took 37.6015 s.
+[6] [time] Linear solver took 37.6015 s.
+[8] [time] Linear solver took 37.6015 s.
+[7] [time] Linear solver took 37.6015 s.
+[3] [time] Linear solver took 37.6015 s.
+[5] [time] Linear solver took 37.6015 s.
+[4] [time] Linear solver took 37.6015 s.
+[10] [time] Linear solver took 37.6015 s.
+[10] Convergence criterion: |dx|=3.4475e-04, |x|=3.4654e+00, |dx|/|x|=9.9484e-05
+[6] Convergence criterion: |dx|=3.4475e-04, |x|=3.4654e+00, |dx|/|x|=9.9484e-05
+[2] Convergence criterion: |dx|=3.4475e-04, |x|=3.4654e+00, |dx|/|x|=9.9484e-05
+[4] Convergence criterion: |dx|=3.4475e-04, |x|=3.4654e+00, |dx|/|x|=9.9484e-05
+[0] Convergence criterion: |dx|=3.4475e-04, |x|=3.4654e+00, |dx|/|x|=9.9484e-05
+[5] Convergence criterion: |dx|=3.4475e-04, |x|=3.4654e+00, |dx|/|x|=9.9484e-05
+[5] [time] Iteration #1 took 38.2729 s.
+[7] Convergence criterion: |dx|=3.4475e-04, |x|=3.4654e+00, |dx|/|x|=9.9484e-05
+[7] [time] Iteration #1 took 38.2729 s.
+[9] Convergence criterion: |dx|=3.4475e-04, |x|=3.4654e+00, |dx|/|x|=9.9484e-05
+[9] [time] Iteration #1 took 38.2729 s.
+[11] Convergence criterion: |dx|=3.4475e-04, |x|=3.4654e+00, |dx|/|x|=9.9484e-05
+[11] [time] Iteration #1 took 38.2729 s.
+[3] Convergence criterion: |dx|=3.4475e-04, |x|=3.4654e+00, |dx|/|x|=9.9484e-05
+[3] [time] Iteration #1 took 38.2729 s.
+[1] Convergence criterion: |dx|=3.4475e-04, |x|=3.4654e+00, |dx|/|x|=9.9484e-05
+[1] [time] Iteration #1 took 38.2729 s.
+[8] Convergence criterion: |dx|=3.4475e-04, |x|=3.4654e+00, |dx|/|x|=9.9484e-05
+[8] [time] Iteration #1 took 38.2729 s.
+[10] [time] Iteration #1 took 38.2729 s.
+[6] [time] Iteration #1 took 38.2729 s.
+[2] [time] Iteration #1 took 38.2729 s.
+[4] [time] Iteration #1 took 38.2729 s.
+[0] [time] Iteration #1 took 38.2729 s.
+[11] Integral of crack: 1.9979e-06
+[9] Integral of crack: 1.9979e-06
+[10] Integral of crack: 1.9979e-06
+[8] Integral of crack: 1.9979e-06
+[2] Integral of crack: 1.9979e-06
+[6] Integral of crack: 1.9979e-06
+[4] Integral of crack: 1.9979e-06
+[0] Integral of crack: 1.9979e-06
+[7] Integral of crack: 1.9979e-06
+[3] Integral of crack: 1.9979e-06
+[5] Integral of crack: 1.9979e-06
+[1] Integral of crack: 1.9979e-06
+[11] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198073 Total energy: 0.140108 
+[11] [time] Solving process #0 took 38.7456 s in time step #3  coupling iteration #1
+[9] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198073 Total energy: 0.140108 
+[9] [time] Solving process #0 took 38.7456 s in time step #3  coupling iteration #1
+[6] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198073 Total energy: 0.140108 
+[6] [time] Solving process #0 took 38.7456 s in time step #3  coupling iteration #1
+[2] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198073 Total energy: 0.140108 
+[2] [time] Solving process #0 took 38.7456 s in time step #3  coupling iteration #1
+[8] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198073 Total energy: 0.140108 
+[8] [time] Solving process #0 took 38.7456 s in time step #3  coupling iteration #1
+[10] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198073 Total energy: 0.140108 
+[10] [time] Solving process #0 took 38.7456 s in time step #3  coupling iteration #1
+[0] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198073 Total energy: 0.140108 
+[0] [time] Solving process #0 took 38.7456 s in time step #3  coupling iteration #1
+[4] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198073 Total energy: 0.140108 
+[4] [time] Solving process #0 took 38.7456 s in time step #3  coupling iteration #1
+[5] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198073 Total energy: 0.140108 
+[5] [time] Solving process #0 took 38.7456 s in time step #3  coupling iteration #1
+[7] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198073 Total energy: 0.140108 
+[7] [time] Solving process #0 took 38.7456 s in time step #3  coupling iteration #1
+[3] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198073 Total energy: 0.140108 
+[3] [time] Solving process #0 took 38.7456 s in time step #3  coupling iteration #1
+[1] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198073 Total energy: 0.140108 
+[1] [time] Solving process #0 took 38.7456 s in time step #3  coupling iteration #1
+[5] [time] Applying Dirichlet BCs took 3.50475e-05 s.
+[7] [time] Applying Dirichlet BCs took 5.26905e-05 s.
+[2] [time] Applying Dirichlet BCs took 4.12464e-05 s.
+[3] [time] Applying Dirichlet BCs took 4.8399e-05 s.
+[9] [time] Applying Dirichlet BCs took 3.43323e-05 s.
+[10] [time] Applying Dirichlet BCs took 3.52859e-05 s.
+[0] [time] Applying Dirichlet BCs took 2.52724e-05 s.
+[11] [time] Applying Dirichlet BCs took 4.1008e-05 s.
+[6] [time] Applying Dirichlet BCs took 4.1008e-05 s.
+[4] [time] Applying Dirichlet BCs took 4.19617e-05 s.
+[1] [time] Applying Dirichlet BCs took 3.71933e-05 s.
+[8] [time] Applying Dirichlet BCs took 3.8147e-05 s.
+[11] [time] Assembly took 0.513361 s.
+[9] [time] Assembly took 0.513385 s.
+[10] [time] Assembly took 0.513365 s.
+[6] [time] Assembly took 0.513378 s.
+[8] [time] Assembly took 0.513354 s.
+[7] [time] Assembly took 0.51337 s.
+[2] [time] Assembly took 0.513365 s.
+[4] [time] Assembly took 0.513377 s.
+[5] [time] Assembly took 0.513362 s.
+[0] [time] Assembly took 0.513379 s.
+[3] [time] Assembly took 0.513352 s.
+[1] [time] Assembly took 0.513348 s.
+[11] PETScSNES used 0 iterations.
+[11] PETSsSNES reason 2.
+[9] PETScSNES used 0 iterations.
+[9] PETSsSNES reason 2.
+[5] PETScSNES used 0 iterations.
+[5] PETSsSNES reason 2.
+[6] PETScSNES used 0 iterations.
+[6] PETSsSNES reason 2.
+  0 SNES Function norm 9.230390653434e-10 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[4] PETScSNES used 0 iterations.
+[4] PETSsSNES reason 2.
+[2] PETScSNES used 0 iterations.
+[2] PETSsSNES reason 2.
+[3] PETScSNES used 0 iterations.
+[3] PETSsSNES reason 2.
+[1] PETScSNES used 0 iterations.
+[1] PETSsSNES reason 2.
+[7] PETScSNES used 0 iterations.
+[7] PETSsSNES reason 2.
+[10] PETScSNES used 0 iterations.
+[10] PETSsSNES reason 2.
+[8] PETScSNES used 0 iterations.
+[8] PETSsSNES reason 2.
+[3] [time] Solving process #1 took 0.530451 s in time step #3  coupling iteration #1
+[2] [time] Solving process #1 took 0.530389 s in time step #3  coupling iteration #1
+[5] [time] Solving process #1 took 0.530462 s in time step #3  coupling iteration #1
+[7] [time] Solving process #1 took 0.530452 s in time step #3  coupling iteration #1
+[4] [time] Solving process #1 took 0.530379 s in time step #3  coupling iteration #1
+[6] [time] Solving process #1 took 0.530386 s in time step #3  coupling iteration #1
+[1] [time] Solving process #1 took 0.530442 s in time step #3  coupling iteration #1
+[9] [time] Solving process #1 took 0.530461 s in time step #3  coupling iteration #1
+[0] [time] Solving process #1 took 0.530392 s in time step #3  coupling iteration #1
+[11] [time] Solving process #1 took 0.530453 s in time step #3  coupling iteration #1
+[8] [time] Solving process #1 took 0.53041 s in time step #3  coupling iteration #1
+[10] [time] Solving process #1 took 0.530413 s in time step #3  coupling iteration #1
+[3] ------- Checking convergence criterion for coupled solution  -------
+[7] ------- Checking convergence criterion for coupled solution  -------
+[9] ------- Checking convergence criterion for coupled solution  -------
+[5] ------- Checking convergence criterion for coupled solution  -------
+[2] ------- Checking convergence criterion for coupled solution  -------
+[11] ------- Checking convergence criterion for coupled solution  -------
+[6] ------- Checking convergence criterion for coupled solution  -------
+[4] ------- Checking convergence criterion for coupled solution  -------
+[1] ------- Checking convergence criterion for coupled solution  -------
+[0] ------- Checking convergence criterion for coupled solution  -------
+[8] ------- Checking convergence criterion for coupled solution  -------
+[10] ------- Checking convergence criterion for coupled solution  -------
+[7] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[10] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[2] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[4] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[0] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[3] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[6] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[8] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[11] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[9] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[5] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[1] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[7] Fracture width computataion after time step for output
+[8] Fracture width computataion after time step for output
+[3] Fracture width computataion after time step for output
+[6] Fracture width computataion after time step for output
+[2] Fracture width computataion after time step for output
+[11] Fracture width computataion after time step for output
+[4] Fracture width computataion after time step for output
+[5] Fracture width computataion after time step for output
+[1] Fracture width computataion after time step for output
+[10] Fracture width computataion after time step for output
+[9] Fracture width computataion after time step for output
+[0] Fracture width computataion after time step for output
+[7] [time] Time step #3 took 62.9319 s.
+[9] [time] Time step #3 took 62.9301 s.
+[1] [time] Time step #3 took 62.9365 s.
+[3] [time] Time step #3 took 62.9398 s.
+[2] [time] Time step #3 took 62.9256 s.
+[11] [time] Time step #3 took 62.9561 s.
+[8] [time] Time step #3 took 62.9469 s.
+[10] [time] Time step #3 took 62.9579 s.
+[5] [time] Time step #3 took 62.9637 s.
+[6] [time] Time step #3 took 62.9511 s.
+[4] [time] Time step #3 took 62.9511 s.
+[0] [time] Time step #3 took 62.9436 s.
+[5] [time] Output of timestep 3 took 0.451656 s.
+[5] === Time stepping at step #4 and time 1 with step size 0.25
+[3] [time] Output of timestep 3 took 0.456672 s.
+[3] === Time stepping at step #4 and time 1 with step size 0.25
+[11] [time] Output of timestep 3 took 0.458572 s.
+[11] === Time stepping at step #4 and time 1 with step size 0.25
+[10] [time] Output of timestep 3 took 0.458573 s.
+[10] === Time stepping at step #4 and time 1 with step size 0.25
+[1] [time] Output of timestep 3 took 0.45924 s.
+[1] === Time stepping at step #4 and time 1 with step size 0.25
+[7] [time] Output of timestep 3 took 0.494533 s.
+[7] === Time stepping at step #4 and time 1 with step size 0.25
+[6] [time] Output of timestep 3 took 0.494523 s.
+[6] === Time stepping at step #4 and time 1 with step size 0.25
+[4] [time] Output of timestep 3 took 0.494512 s.
+[4] === Time stepping at step #4 and time 1 with step size 0.25
+[8] [time] Output of timestep 3 took 0.497117 s.
+[8] === Time stepping at step #4 and time 1 with step size 0.25
+[9] [time] Output of timestep 3 took 0.497092 s.
+[9] === Time stepping at step #4 and time 1 with step size 0.25
+[2] [time] Output of timestep 3 took 0.497715 s.
+[2] === Time stepping at step #4 and time 1 with step size 0.25
+[0] [time] Output of timestep 3 took 0.49826 s.
+[0] === Time stepping at step #4 and time 1 with step size 0.25
+[3] [time] Assembly took 0.660731 s.
+[11] [time] Assembly took 0.66078 s.
+[9] [time] Assembly took 0.660833 s.
+[7] [time] Assembly took 0.66076 s.
+[10] [time] Assembly took 0.660811 s.
+[8] [time] Assembly took 0.660802 s.
+[6] [time] Assembly took 0.660812 s.
+[5] [time] Assembly took 0.660811 s.
+[2] [time] Assembly took 0.660827 s.
+[0] [time] Assembly took 0.660796 s.
+[4] [time] Assembly took 0.660802 s.
+[1] [time] Assembly took 0.660818 s.
+[9] [time] Applying Dirichlet BCs took 0.0103178 s.
+[11] [time] Applying Dirichlet BCs took 0.0103502 s.
+[3] [time] Applying Dirichlet BCs took 0.010417 s.
+[8] [time] Applying Dirichlet BCs took 0.0103259 s.
+[6] [time] Applying Dirichlet BCs took 0.0107379 s.
+[10] [time] Applying Dirichlet BCs took 0.0103149 s.
+[5] [time] Applying Dirichlet BCs took 0.0103316 s.
+[7] [time] Applying Dirichlet BCs took 0.0103912 s.
+[4] [time] Applying Dirichlet BCs took 0.0103338 s.
+[2] [time] Applying Dirichlet BCs took 0.0103073 s.
+[0] [time] Applying Dirichlet BCs took 0.0103335 s.
+[1] [time] Applying Dirichlet BCs took 0.0103083 s.
+[11] [time] Linear solver took 31.6594 s.
+[9] [time] Linear solver took 31.6594 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 283 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 31.6594 s.
+[8] [time] Linear solver took 31.6594 s.
+[6] [time] Linear solver took 31.6594 s.
+[10] [time] Linear solver took 31.6594 s.
+[4] [time] Linear solver took 31.6594 s.
+[1] [time] Linear solver took 31.6594 s.
+[3] [time] Linear solver took 31.6594 s.
+[7] [time] Linear solver took 31.6594 s.
+[2] [time] Linear solver took 31.6594 s.
+[5] [time] Linear solver took 31.6594 s.
+[2] Convergence criterion: |dx|=2.7147e-04, |x|=3.4654e+00, |dx|/|x|=7.8335e-05
+[10] Convergence criterion: |dx|=2.7147e-04, |x|=3.4654e+00, |dx|/|x|=7.8335e-05
+[6] Convergence criterion: |dx|=2.7147e-04, |x|=3.4654e+00, |dx|/|x|=7.8335e-05
+[0] Convergence criterion: |dx|=2.7147e-04, |x|=3.4654e+00, |dx|/|x|=7.8335e-05
+[3] Convergence criterion: |dx|=2.7147e-04, |x|=3.4654e+00, |dx|/|x|=7.8335e-05
+[3] [time] Iteration #1 took 32.3319 s.
+[7] Convergence criterion: |dx|=2.7147e-04, |x|=3.4654e+00, |dx|/|x|=7.8335e-05
+[7] [time] Iteration #1 took 32.3319 s.
+[4] Convergence criterion: |dx|=2.7147e-04, |x|=3.4654e+00, |dx|/|x|=7.8335e-05
+[11] Convergence criterion: |dx|=2.7147e-04, |x|=3.4654e+00, |dx|/|x|=7.8335e-05
+[11] [time] Iteration #1 took 32.3319 s.
+[5] Convergence criterion: |dx|=2.7147e-04, |x|=3.4654e+00, |dx|/|x|=7.8335e-05
+[5] [time] Iteration #1 took 32.3319 s.
+[9] Convergence criterion: |dx|=2.7147e-04, |x|=3.4654e+00, |dx|/|x|=7.8335e-05
+[9] [time] Iteration #1 took 32.3319 s.
+[1] Convergence criterion: |dx|=2.7147e-04, |x|=3.4654e+00, |dx|/|x|=7.8335e-05
+[1] [time] Iteration #1 took 32.3319 s.
+[8] Convergence criterion: |dx|=2.7147e-04, |x|=3.4654e+00, |dx|/|x|=7.8335e-05
+[8] [time] Iteration #1 took 32.3319 s.
+[2] [time] Iteration #1 took 32.3319 s.
+[10] [time] Iteration #1 took 32.3319 s.
+[6] [time] Iteration #1 took 32.3323 s.
+[0] [time] Iteration #1 took 32.3319 s.
+[4] [time] Iteration #1 took 32.3319 s.
+[11] Integral of crack: 1.99714e-06
+[9] Integral of crack: 1.99714e-06
+[6] Integral of crack: 1.99714e-06
+[4] Integral of crack: 1.99714e-06
+[8] Integral of crack: 1.99714e-06
+[10] Integral of crack: 1.99714e-06
+[2] Integral of crack: 1.99714e-06
+[3] Integral of crack: 1.99714e-06
+[0] Integral of crack: 1.99714e-06
+[7] Integral of crack: 1.99714e-06
+[5] Integral of crack: 1.99714e-06
+[1] Integral of crack: 1.99714e-06
+[11] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198482 Total energy: 0.140108 
+[11] [time] Solving process #0 took 32.8064 s in time step #4  coupling iteration #0
+[9] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198482 Total energy: 0.140108 
+[9] [time] Solving process #0 took 32.8058 s in time step #4  coupling iteration #0
+[8] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198482 Total energy: 0.140108 
+[8] [time] Solving process #0 took 32.8063 s in time step #4  coupling iteration #0
+[5] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198482 Total energy: 0.140108 
+[5] [time] Solving process #0 took 32.8065 s in time step #4  coupling iteration #0
+[7] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198482 Total energy: 0.140108 
+[7] [time] Solving process #0 took 32.8059 s in time step #4  coupling iteration #0
+[4] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198482 Total energy: 0.140108 
+[4] [time] Solving process #0 took 32.806 s in time step #4  coupling iteration #0
+[3] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198482 Total energy: 0.140108 
+[3] [time] Solving process #0 took 32.8061 s in time step #4  coupling iteration #0
+[1] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198482 Total energy: 0.140108 
+[1] [time] Solving process #0 took 32.8062 s in time step #4  coupling iteration #0
+[6] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198482 Total energy: 0.140108 
+[6] [time] Solving process #0 took 32.8067 s in time step #4  coupling iteration #0
+[10] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198482 Total energy: 0.140108 
+[10] [time] Solving process #0 took 32.8062 s in time step #4  coupling iteration #0
+[2] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198482 Total energy: 0.140108 
+[2] [time] Solving process #0 took 32.8054 s in time step #4  coupling iteration #0
+[0] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198482 Total energy: 0.140108 
+[0] [time] Solving process #0 took 32.8061 s in time step #4  coupling iteration #0
+[0] [time] Applying Dirichlet BCs took 2.21729e-05 s.
+[5] [time] Applying Dirichlet BCs took 2.26498e-05 s.
+[10] [time] Applying Dirichlet BCs took 3.02792e-05 s.
+[7] [time] Applying Dirichlet BCs took 4.55379e-05 s.
+[9] [time] Applying Dirichlet BCs took 2.81334e-05 s.
+[11] [time] Applying Dirichlet BCs took 3.0756e-05 s.
+[2] [time] Applying Dirichlet BCs took 3.6478e-05 s.
+[6] [time] Applying Dirichlet BCs took 4.31538e-05 s.
+[3] [time] Applying Dirichlet BCs took 4.41074e-05 s.
+[4] [time] Applying Dirichlet BCs took 3.50475e-05 s.
+[8] [time] Applying Dirichlet BCs took 3.6478e-05 s.
+[1] [time] Applying Dirichlet BCs took 2.69413e-05 s.
+[9] [time] Assembly took 0.513117 s.
+[11] [time] Assembly took 0.513114 s.
+[6] [time] Assembly took 0.513106 s.
+[5] [time] Assembly took 0.513106 s.
+[7] [time] Assembly took 0.513109 s.
+[10] [time] Assembly took 0.513104 s.
+[4] [time] Assembly took 0.513111 s.
+[3] [time] Assembly took 0.513112 s.
+[8] [time] Assembly took 0.513123 s.
+[2] [time] Assembly took 0.513132 s.
+[0] [time] Assembly took 0.513126 s.
+[1] [time] Assembly took 0.513108 s.
+[11] PETScSNES used 0 iterations.
+[11] PETSsSNES reason 2.
+[9] PETScSNES used 0 iterations.
+[9] PETSsSNES reason 2.
+[2] PETScSNES used 0 iterations.
+[2] PETSsSNES reason 2.
+[4] PETScSNES used 0 iterations.
+[4] PETSsSNES reason 2.
+[8] PETScSNES used 0 iterations.
+[8] PETSsSNES reason 2.
+[6] PETScSNES used 0 iterations.
+[6] PETSsSNES reason 2.
+[10] PETScSNES used 0 iterations.
+[10] PETSsSNES reason 2.
+[7] PETScSNES used 0 iterations.
+[7] PETSsSNES reason 2.
+[5] PETScSNES used 0 iterations.
+[5] PETSsSNES reason 2.
+  0 SNES Function norm 9.228223559255e-10 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[3] PETScSNES used 0 iterations.
+[3] PETSsSNES reason 2.
+[1] PETScSNES used 0 iterations.
+[1] PETSsSNES reason 2.
+[3] [time] Solving process #1 took 0.530149 s in time step #4  coupling iteration #0
+[7] [time] Solving process #1 took 0.530153 s in time step #4  coupling iteration #0
+[2] [time] Solving process #1 took 0.530136 s in time step #4  coupling iteration #0
+[5] [time] Solving process #1 took 0.530155 s in time step #4  coupling iteration #0
+[4] [time] Solving process #1 took 0.530141 s in time step #4  coupling iteration #0
+[1] [time] Solving process #1 took 0.530161 s in time step #4  coupling iteration #0
+[11] [time] Solving process #1 took 0.530159 s in time step #4  coupling iteration #0
+[9] [time] Solving process #1 took 0.530167 s in time step #4  coupling iteration #0
+[6] [time] Solving process #1 took 0.530155 s in time step #4  coupling iteration #0
+[0] [time] Solving process #1 took 0.530138 s in time step #4  coupling iteration #0
+[8] [time] Solving process #1 took 0.530161 s in time step #4  coupling iteration #0
+[10] [time] Solving process #1 took 0.530164 s in time step #4  coupling iteration #0
+[11] [time] Assembly took 0.66064 s.
+[9] [time] Assembly took 0.660636 s.
+[3] [time] Assembly took 0.660595 s.
+[7] [time] Assembly took 0.660618 s.
+[6] [time] Assembly took 0.66065 s.
+[5] [time] Assembly took 0.660616 s.
+[4] [time] Assembly took 0.660641 s.
+[2] [time] Assembly took 0.660615 s.
+[0] [time] Assembly took 0.660639 s.
+[1] [time] Assembly took 0.660637 s.
+[10] [time] Assembly took 0.660662 s.
+[8] [time] Assembly took 0.66073 s.
+[11] [time] Applying Dirichlet BCs took 0.0103726 s.
+[9] [time] Applying Dirichlet BCs took 0.0103774 s.
+[2] [time] Applying Dirichlet BCs took 0.0103714 s.
+[4] [time] Applying Dirichlet BCs took 0.0103679 s.
+[7] [time] Applying Dirichlet BCs took 0.0103977 s.
+[0] [time] Applying Dirichlet BCs took 0.0103374 s.
+[10] [time] Applying Dirichlet BCs took 0.0103254 s.
+[5] [time] Applying Dirichlet BCs took 0.0103979 s.
+[8] [time] Applying Dirichlet BCs took 0.0102499 s.
+[6] [time] Applying Dirichlet BCs took 0.0103528 s.
+[3] [time] Applying Dirichlet BCs took 0.0104229 s.
+[1] [time] Applying Dirichlet BCs took 0.0103669 s.
+[9] [time] Linear solver took 18.7542 s.
+[11] [time] Linear solver took 18.7542 s.
+
+================================================
+Linear solver cg with hypre preconditioner
+converged in 165 iterations (absolute convergence criterion fulfilled).
+================================================
+[0] [time] Linear solver took 18.7543 s.
+[8] [time] Linear solver took 18.7542 s.
+[10] [time] Linear solver took 18.7542 s.
+[6] [time] Linear solver took 18.7542 s.
+[4] [time] Linear solver took 18.7542 s.
+[5] [time] Linear solver took 18.7542 s.
+[7] [time] Linear solver took 18.7542 s.
+[2] [time] Linear solver took 18.7542 s.
+[3] [time] Linear solver took 18.7542 s.
+[1] [time] Linear solver took 18.7542 s.
+[0] Convergence criterion: |dx|=2.5206e-04, |x|=3.4654e+00, |dx|/|x|=7.2736e-05
+[11] Convergence criterion: |dx|=2.5206e-04, |x|=3.4654e+00, |dx|/|x|=7.2736e-05
+[11] [time] Iteration #1 took 19.4266 s.
+[5] Convergence criterion: |dx|=2.5206e-04, |x|=3.4654e+00, |dx|/|x|=7.2736e-05
+[5] [time] Iteration #1 took 19.4266 s.
+[6] Convergence criterion: |dx|=2.5206e-04, |x|=3.4654e+00, |dx|/|x|=7.2736e-05
+[9] Convergence criterion: |dx|=2.5206e-04, |x|=3.4654e+00, |dx|/|x|=7.2736e-05
+[9] [time] Iteration #1 took 19.4266 s.
+[7] Convergence criterion: |dx|=2.5206e-04, |x|=3.4654e+00, |dx|/|x|=7.2736e-05
+[7] [time] Iteration #1 took 19.4266 s.
+[4] Convergence criterion: |dx|=2.5206e-04, |x|=3.4654e+00, |dx|/|x|=7.2736e-05
+[10] Convergence criterion: |dx|=2.5206e-04, |x|=3.4654e+00, |dx|/|x|=7.2736e-05
+[10] [time] Iteration #1 took 19.4266 s.
+[2] Convergence criterion: |dx|=2.5206e-04, |x|=3.4654e+00, |dx|/|x|=7.2736e-05
+[2] [time] Iteration #1 took 19.4266 s.
+[8] Convergence criterion: |dx|=2.5206e-04, |x|=3.4654e+00, |dx|/|x|=7.2736e-05
+[8] [time] Iteration #1 took 19.4266 s.
+[3] Convergence criterion: |dx|=2.5206e-04, |x|=3.4654e+00, |dx|/|x|=7.2736e-05
+[3] [time] Iteration #1 took 19.4266 s.
+[1] Convergence criterion: |dx|=2.5206e-04, |x|=3.4654e+00, |dx|/|x|=7.2736e-05
+[1] [time] Iteration #1 took 19.4266 s.
+[0] [time] Iteration #1 took 19.4266 s.
+[6] [time] Iteration #1 took 19.4266 s.
+[4] [time] Iteration #1 took 19.4266 s.
+[11] Integral of crack: 1.99692e-06
+[9] Integral of crack: 1.99692e-06
+[6] Integral of crack: 1.99692e-06
+[8] Integral of crack: 1.99692e-06
+[10] Integral of crack: 1.99692e-06
+[2] Integral of crack: 1.99692e-06
+[4] Integral of crack: 1.99692e-06
+[0] Integral of crack: 1.99692e-06
+[3] Integral of crack: 1.99692e-06
+[5] Integral of crack: 1.99692e-06
+[7] Integral of crack: 1.99692e-06
+[1] Integral of crack: 1.99692e-06
+[11] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198942 Total energy: 0.140108 
+[11] [time] Solving process #0 took 19.9003 s in time step #4  coupling iteration #1
+[9] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198942 Total energy: 0.140108 
+[9] [time] Solving process #0 took 19.9003 s in time step #4  coupling iteration #1
+[6] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198942 Total energy: 0.140108 
+[6] [time] Solving process #0 took 19.9003 s in time step #4  coupling iteration #1
+[8] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198942 Total energy: 0.140108 
+[8] [time] Solving process #0 took 19.9003 s in time step #4  coupling iteration #1
+[10] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198942 Total energy: 0.140108 
+[10] [time] Solving process #0 took 19.9003 s in time step #4  coupling iteration #1
+[2] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198942 Total energy: 0.140108 
+[2] [time] Solving process #0 took 19.9003 s in time step #4  coupling iteration #1
+[5] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198942 Total energy: 0.140108 
+[5] [time] Solving process #0 took 19.9003 s in time step #4  coupling iteration #1
+[4] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198942 Total energy: 0.140108 
+[4] [time] Solving process #0 took 19.9003 s in time step #4  coupling iteration #1
+[7] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198942 Total energy: 0.140108 
+[7] [time] Solving process #0 took 19.9003 s in time step #4  coupling iteration #1
+[3] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198942 Total energy: 0.140108 
+[3] [time] Solving process #0 took 19.9003 s in time step #4  coupling iteration #1
+[0] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198942 Total energy: 0.140108 
+[0] [time] Solving process #0 took 19.9003 s in time step #4  coupling iteration #1
+[1] Elastic energy: 0.000394823 Surface energy: 0.139713 Pressure work: 0.000198942 Total energy: 0.140108 
+[1] [time] Solving process #0 took 19.9003 s in time step #4  coupling iteration #1
+[5] [time] Applying Dirichlet BCs took 3.24249e-05 s.
+[7] [time] Applying Dirichlet BCs took 4.86374e-05 s.
+[3] [time] Applying Dirichlet BCs took 4.91142e-05 s.
+[11] [time] Applying Dirichlet BCs took 4.07696e-05 s.
+[9] [time] Applying Dirichlet BCs took 3.38554e-05 s.
+[10] [time] Applying Dirichlet BCs took 3.48091e-05 s.
+[2] [time] Applying Dirichlet BCs took 4.19617e-05 s.
+[6] [time] Applying Dirichlet BCs took 4.17233e-05 s.
+[4] [time] Applying Dirichlet BCs took 4.14848e-05 s.
+[0] [time] Applying Dirichlet BCs took 2.6226e-05 s.
+[1] [time] Applying Dirichlet BCs took 3.40939e-05 s.
+[8] [time] Applying Dirichlet BCs took 3.74317e-05 s.
+[9] [time] Assembly took 0.510818 s.
+[11] [time] Assembly took 0.510836 s.
+[10] [time] Assembly took 0.510802 s.
+[6] [time] Assembly took 0.510806 s.
+[4] [time] Assembly took 0.510803 s.
+[1] [time] Assembly took 0.5108 s.
+[2] [time] Assembly took 0.510808 s.
+[8] [time] Assembly took 0.510822 s.
+[0] [time] Assembly took 0.510807 s.
+[3] [time] Assembly took 0.51082 s.
+[5] [time] Assembly took 0.510819 s.
+[7] [time] Assembly took 0.510819 s.
+[11] PETScSNES used 0 iterations.
+[11] PETSsSNES reason 2.
+[9] PETScSNES used 0 iterations.
+[9] PETSsSNES reason 2.
+[5] PETScSNES used 0 iterations.
+[5] PETSsSNES reason 2.
+[3] PETScSNES used 0 iterations.
+[3] PETSsSNES reason 2.
+[8] PETScSNES used 0 iterations.
+[8] PETSsSNES reason 2.
+[6] PETScSNES used 0 iterations.
+[6] PETSsSNES reason 2.
+[10] PETScSNES used 0 iterations.
+[10] PETSsSNES reason 2.
+[4] PETScSNES used 0 iterations.
+[4] PETSsSNES reason 2.
+[7] PETScSNES used 0 iterations.
+[7] PETSsSNES reason 2.
+[2] PETScSNES used 0 iterations.
+[2] PETSsSNES reason 2.
+  0 SNES Function norm 9.229109665555e-10 
+[0] PETScSNES used 0 iterations.
+[0] PETSsSNES reason 2.
+[1] PETScSNES used 0 iterations.
+[1] PETSsSNES reason 2.
+[3] [time] Solving process #1 took 0.528192 s in time step #4  coupling iteration #1
+[7] [time] Solving process #1 took 0.528184 s in time step #4  coupling iteration #1
+[6] [time] Solving process #1 took 0.528127 s in time step #4  coupling iteration #1
+[2] [time] Solving process #1 took 0.528131 s in time step #4  coupling iteration #1
+[4] [time] Solving process #1 took 0.528119 s in time step #4  coupling iteration #1
+[11] [time] Solving process #1 took 0.528175 s in time step #4  coupling iteration #1
+[5] [time] Solving process #1 took 0.528206 s in time step #4  coupling iteration #1
+[1] [time] Solving process #1 took 0.528184 s in time step #4  coupling iteration #1
+[9] [time] Solving process #1 took 0.528204 s in time step #4  coupling iteration #1
+[8] [time] Solving process #1 took 0.528141 s in time step #4  coupling iteration #1
+[0] [time] Solving process #1 took 0.528136 s in time step #4  coupling iteration #1
+[10] [time] Solving process #1 took 0.528149 s in time step #4  coupling iteration #1
+[7] ------- Checking convergence criterion for coupled solution  -------
+[3] ------- Checking convergence criterion for coupled solution  -------
+[11] ------- Checking convergence criterion for coupled solution  -------
+[5] ------- Checking convergence criterion for coupled solution  -------
+[1] ------- Checking convergence criterion for coupled solution  -------
+[2] ------- Checking convergence criterion for coupled solution  -------
+[9] ------- Checking convergence criterion for coupled solution  -------
+[6] ------- Checking convergence criterion for coupled solution  -------
+[4] ------- Checking convergence criterion for coupled solution  -------
+[10] ------- Checking convergence criterion for coupled solution  -------
+[8] ------- Checking convergence criterion for coupled solution  -------
+[0] ------- Checking convergence criterion for coupled solution  -------
+[6] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[7] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[3] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[9] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[10] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[0] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[4] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[5] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[11] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[8] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[2] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[1] Convergence criterion: |dx|=0.0000e+00, |x|=1.0000e+00, |dx|/|x|=0.0000e+00
+[7] Fracture width computataion after time step for output
+[8] Fracture width computataion after time step for output
+[6] Fracture width computataion after time step for output
+[2] Fracture width computataion after time step for output
+[4] Fracture width computataion after time step for output
+[5] Fracture width computataion after time step for output
+[3] Fracture width computataion after time step for output
+[11] Fracture width computataion after time step for output
+[9] Fracture width computataion after time step for output
+[10] Fracture width computataion after time step for output
+[0] Fracture width computataion after time step for output
+[1] Fracture width computataion after time step for output
+[7] [time] Time step #4 took 53.8481 s.
+[9] [time] Time step #4 took 53.8458 s.
+[3] [time] Time step #4 took 53.8862 s.
+[2] [time] Time step #4 took 53.8452 s.
+[1] [time] Time step #4 took 53.8836 s.
+[11] [time] Time step #4 took 53.9016 s.
+[8] [time] Time step #4 took 53.8631 s.
+[5] [time] Time step #4 took 53.911 s.
+[6] [time] Time step #4 took 53.8681 s.
+[10] [time] Time step #4 took 53.9041 s.
+[4] [time] Time step #4 took 53.8681 s.
+[0] [time] Time step #4 took 53.8644 s.
+[1] [time] Output of timestep 4 took 0.454216 s.
+[1] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[5] [time] Output of timestep 4 took 0.480379 s.
+[5] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[3] [time] Output of timestep 4 took 0.485098 s.
+[3] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[11] [time] Output of timestep 4 took 0.487885 s.
+[11] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[10] [time] Output of timestep 4 took 0.487886 s.
+[10] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[7] [time] Output of timestep 4 took 0.490852 s.
+[7] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[6] [time] Output of timestep 4 took 0.490831 s.
+[6] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[4] [time] Output of timestep 4 took 0.490821 s.
+[4] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[9] [time] Output of timestep 4 took 0.4941 s.
+[9] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[8] [time] Output of timestep 4 took 0.494126 s.
+[8] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[2] [time] Output of timestep 4 took 0.494993 s.
+[2] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[0] [time] Output of timestep 4 took 0.496007 s.
+[0] The whole computation of the time stepping took 4 steps, in which
+	 the accepted steps are 4, and the rejected steps are 0.
+
+[9] [time] Execution took 343.378 s.
+[0] [time] Execution took 343.378 s.
+[7] [time] Execution took 343.378 s.
+[8] [time] Execution took 343.378 s.
+[10] [time] Execution took 343.378 s.
+[11] [time] Execution took 343.378 s.
+[4] [time] Execution took 343.378 s.
+[2] [time] Execution took 343.378 s.
+[6] [time] Execution took 343.378 s.
+[5] [time] Execution took 343.378 s.
+[3] [time] Execution took 343.378 s.
+[1] [time] Execution took 343.378 s.
+[9] OGS terminated on 2021-01-05 17:29:59+010
+[3] OGS terminated on 2021-01-05 17:29:59+010
+[7] OGS terminated on 2021-01-05 17:29:59+010
+[11] OGS terminated on 2021-01-05 17:29:59+010
+[6] OGS terminated on 2021-01-05 17:29:59+010
+[8] OGS terminated on 2021-01-05 17:29:59+010
+[10] OGS terminated on 2021-01-05 17:29:59+010
+[5] OGS terminated on 2021-01-05 17:29:59+010
+[4] OGS terminated on 2021-01-05 17:29:59+010
+[2] OGS terminated on 2021-01-05 17:29:59+010
+[0] OGS terminated on 2021-01-05 17:29:59+010
+[1] OGS terminated on 2021-01-05 17:29:59+010
